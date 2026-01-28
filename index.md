@@ -63,6 +63,8 @@ Submission via Easychair: url_TBC
 
 #  Committees
 
+Contact for enquiries: TBD 
+
 ## Organising Committee
 
 - Prof. [John McDonald](https://www.maynoothuniversity.ie/computer-science/our-people/john-mcdonald)
