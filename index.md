@@ -29,9 +29,7 @@ Contributions are sought in all aspects of image processing, pattern analysis an
 
 - Image and Video Sensing, Representation, Modeling, and Registration
 - Image and Video Filtering, Processing, Restoration, and Enhancement
-
-Motion Estimation, Registration, and Fusion
-
+- Motion Estimation, Registration, and Fusion
 - Image and Video Analysis, Interpretation, and Understanding
 - Image and Video Quality Models and Metrics
 - Video Streaming and Content Delivery
