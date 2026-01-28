@@ -1,5 +1,5 @@
 
-The Irish Machine Vision and Image Processing (IMVIP) conference website for 2026 is coming soon!
+The **Irish Machine Vision and Image Processing (IMVIP) conference** website for 2026 is coming soon!
 
 IMVIP 2026 will be hosted at [Maynooth University](https://www.maynoothuniversity.ie/), in Ireland.
 
