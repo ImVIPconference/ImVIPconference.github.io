@@ -1,5 +1,7 @@
 ---
 layout: default
+name: IMVIP 2026
+title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 ---
 
 The **Irish Machine Vision and Image Processing (IMVIP) conference** website for 2026 is coming soon!
