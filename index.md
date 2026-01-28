@@ -4,8 +4,9 @@ name: IMVIP 2026
 title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 ---
 
-**This website for 2026 is under contruction!**
+2026/01/28: **This website for IMVIP 2026 is under contruction!**
 
+### Welcome to IMVIP 2026!
 
 The **Irish Machine Vision and Image Processing (IMVIP) conference** (IMVIP 2026) will be hosted at [Maynooth University](https://www.maynoothuniversity.ie/), in Ireland:
 
@@ -18,12 +19,22 @@ The **Irish Machine Vision and Image Processing (IMVIP) conference** (IMVIP 2026
 - Notification of acceptance: TBC
 - Camera ready paper deadline: TBC
 
-### About IMVIP 
+#### About IMVIP
 
 The Irish Machine Vision and Image Processing (IMVIP) conference is the flagship event of the [Irish Pattern Recognition and Classification Society (IPRCS)](http://iprcs.org/). It provides a forum for researchers, practitioners, and students to present and discuss the latest advancements in machine vision, image processing, and related fields.
 
+#### Topics
+
 Contributions are sought in all aspects of image processing, pattern analysis and machine vision, including but *not restricted to* the following topics:
 
+- Image and Video Sensing, Representation, Modeling, and Registration
+- Image and Video Filtering, Processing, Restoration, and Enhancement
+
+Motion Estimation, Registration, and Fusion
+
+- Image and Video Analysis, Interpretation, and Understanding
+- Image and Video Quality Models and Metrics
+- Video Streaming and Content Delivery
 - Visually Guided Robot Manipulation and Navigation
 - Computer Vision for Autonomous Vehicles
 - Augmented Reality/Virtual Reality
@@ -35,6 +46,9 @@ Contributions are sought in all aspects of image processing, pattern analysis an
 - Face and Gesture Recognition
 - 2D, 3D Scene Analysis and Visualisation
 - Deep Learning for Computer Vision
+- Audiovisual and Multimedia Systems
+- Document Analysis and Processing
+- Multi-Spectral Imaging and Applications
 - Image/Shape Representation and Recovery
 
 
