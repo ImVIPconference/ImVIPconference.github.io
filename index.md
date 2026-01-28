@@ -6,24 +6,24 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 
 2026/01/28: **This website for IMVIP 2026 is under contruction!**
 
-## Welcome to IMVIP 2026!
+# Welcome to IMVIP 2026!
 
 The **Irish Machine Vision and Image Processing (IMVIP) conference** (IMVIP 2026) will be hosted at [Maynooth University](https://www.maynoothuniversity.ie/), in Ireland:
 
 - Venue details: TBC
 - Conference Dates: TBC 
 
-### Important Dates:
+## Important Dates:
 
 - Paper submission deadline: TBC
 - Notification of acceptance: TBC
 - Camera ready paper deadline: TBC
 
-### About IMVIP
+## About IMVIP
 
 The Irish Machine Vision and Image Processing (IMVIP) conference is the flagship event of the [Irish Pattern Recognition and Classification Society (IPRCS)](http://iprcs.org/). It provides a forum for researchers, practitioners, and students to present and discuss the latest advancements in machine vision, image processing, and related fields.
 
-### Topics
+## Topics
 
 Contributions are sought in all aspects of image processing, pattern analysis and machine vision, including but *not restricted to* the following topics:
 
@@ -36,7 +36,6 @@ Contributions are sought in all aspects of image processing, pattern analysis an
 - Visually Guided Robot Manipulation and Navigation
 - Computer Vision for Autonomous Vehicles
 - Augmented Reality/Virtual Reality
-- Data Clustering and Texture Analysis
 - Image & Video Representation, Compression - and Coding
 - Medical and Biomedical Imaging
 - Active Vision, Tracking and Motion Analysis
@@ -50,7 +49,7 @@ Contributions are sought in all aspects of image processing, pattern analysis an
 - Image/Shape Representation and Recovery
 
 
-## Conference programme
+# Conference programme
 
 TBD
 
@@ -62,18 +61,20 @@ Submission via Easychair: url_TBC
 
 
 
+#  Committees
+
 ## Organising Committee
 
-- [John McDonald](https://www.maynoothuniversity.ie/computer-science/our-people/john-mcdonald)
-- [Charles Markham](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/charles-markham)
-- [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot)
-- [Gerry Lacey](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/gerard-lacey) 
+- Prof. [John McDonald](https://www.maynoothuniversity.ie/computer-science/our-people/john-mcdonald)
+- Prof. [Charles Markham](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/charles-markham)
+- Prof. [Rozenn Dahyot](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/rozenn-dahyot)
+- Prof. [Gerry Lacey](https://www.maynoothuniversity.ie/faculty-science-engineering/our-people/gerard-lacey) 
 
-### Programme Committee
+## Programme Committee
 
 TBC
  
-### History of the IMVIP conference
+## History of the IMVIP conference
 
 - [2025 IMVIP conference webpage](index-imvip2025.html)
 - [Past IMVIP proceedings](https://iprcs.github.io/IMVIP.html)
