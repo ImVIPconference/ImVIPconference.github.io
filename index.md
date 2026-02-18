@@ -4,20 +4,26 @@ name: IMVIP 2026
 title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 ---
 
-![](Library-with-Logo-ext3.webp)
 
 # Welcome to IMVIP 2026!
+
+![](Library-with-Logo-ext3.webp)
+
 
 The **Irish Machine Vision and Image Processing (IMVIP) conference** (IMVIP 2026) will be hosted at [Maynooth University](https://www.maynoothuniversity.ie/), in Ireland:
 
 - Venue details: [Maynooth campus](https://www.openstreetmap.org/#map=16/53.38206/-6.59762)
 - Conference Dates: 26th to 28th August 2026 
 
+
 ## Important Dates:
 
-- Paper submission deadline: TBC
-- Notification of acceptance: TBC
-- Camera ready paper deadline: TBC
+- Paper submission deadline: 15th May 2026
+- Notification of acceptance: 30th June 2026
+- Camera ready paper deadline: 8th July 2026
+- Early bird registration: before/on  10th July 2026
+- Conference dates: 26-28th August 2026
+
 
 ## About IMVIP
 
