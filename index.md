@@ -55,15 +55,44 @@ Contributions are sought in all aspects of image processing, pattern analysis an
 - Image/Shape Representation and Recovery
 
 
-# Conference programme
 
-TBD
 
-## Submission Guidelines
+### Submission Guidelines for Authors
 
-Submissions will be peer-reviewed by at least two members of the program committee. Accepted papers will be published in the conference proceedings.
+Two types of papers can be submitted to IMVIP:
 
-Submission via Easychair: url_TBC
+- `Full Papers` must be a maximum of 8 pages including references and appendices.
+
+- `Short papers` must be a maximum of 4 pages including references and appendices.
+
+Submissions will be peer-reviewed by at least two members of the program committee. All accepted papers will be published in the conference proceedings.
+
+Paper templates:
+
+- [Latex Template](https://imvipconference.github.io/imvip_Formatting_Instructions.zip)
+
+- [Paper MS Word  Template](https://imvipconference.github.io/imvip_Formatting_Instructions.docx)
+
+Papers are to be submitted in PDF format for blind review (submitted PDF papers should not allow to identify authors).
+The   Easychair submission website will be open at URL_TBC (coming soon).  
+
+
+# Conference programme 
+
+The conference programme will be updated in early August, but in line with previous IMVIP conferences, we indicate below start/end day and time for the conference. 
+
+
+- Wednesday 26th August 2026
+
+    - 1:00-2:00 pm Conference registration
+
+    - 2:00 pm Conference starts
+
+-  Thursday 27th August 2026
+
+- Friday 28th August 2026
+
+    - 12:00pm  Conference end. 
 
 
 
