@@ -4,7 +4,7 @@ name: IMVIP 2026
 title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 ---
 
-
+![](Library-with-Logo-ext3.webp)
 
 # Welcome to IMVIP 2026!
 
@@ -80,3 +80,5 @@ TBC
 
 - [2025 IMVIP conference webpage](index-imvip2025.html)
 - [Past IMVIP proceedings](https://iprcs.github.io/IMVIP.html)
+
+[def]: Li
