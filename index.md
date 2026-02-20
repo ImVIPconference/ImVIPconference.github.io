@@ -74,14 +74,17 @@ Paper templates:
 
 - [Paper MS Word  Template](https://imvipconference.github.io/imvip_Formatting_Instructions.docx)
 
-Papers are to be submitted in PDF format for blind review (submitted PDF papers should not allow to identify authors).
+
+Submission requirements:
+
+- Papers are to be submitted in PDF format for blind review (submitted PDF papers should not allow to identify authors).
 
 - Submitted PDF papers should be free of hidden messages or prompts. 
 
 - Both submitting **authors** and **reviewers**  for IMVIP 2026 are requested to follow  [Guidelines for **Generative AI Usage**](https://www.ieee-ras.org/publications/guidelines-for-generative-ai-usage/) written by IEEE Robotics and Automation Society Website.
 
 
-The   Easychair submission website will be open at URL_TBC (coming soon).  
+The   submission website will be open at URL_TBC (coming soon).  
 
 
 # Conference programme 
