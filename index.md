@@ -7,18 +7,19 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 
 # Welcome to IMVIP 2026!
 
-![](Library-with-Logo-ext3.webp)
+
+<center><img src="Library-with-Logo-ext3.webp" width="80%"></center>
 
 
 The **Irish Machine Vision and Image Processing (IMVIP) conference** (IMVIP 2026) will be hosted at [Maynooth University](https://www.maynoothuniversity.ie/), in Ireland:
 
 - Venue details: [Maynooth campus](https://www.openstreetmap.org/#map=16/53.38206/-6.59762)
-- Conference Dates: 26th to 28th August 2026 
+- Conference Dates: **26th to 28th August 2026** 
 
 
 ## Important Dates:
 
-- Paper submission deadline: 15th May 2026
+- Paper submission deadline: **15th May 2026**
 - Notification of acceptance: 30th June 2026
 - Camera ready paper deadline: 8th July 2026
 - Early bird registration: before/on  10th July 2026
@@ -74,6 +75,12 @@ Paper templates:
 - [Paper MS Word  Template](https://imvipconference.github.io/imvip_Formatting_Instructions.docx)
 
 Papers are to be submitted in PDF format for blind review (submitted PDF papers should not allow to identify authors).
+
+- Submitted PDF papers should be free of hidden messages or prompts. 
+
+- Both submitting **authors** and **reviewers**  for IMVIP 2026 are requested to follow  [Guidelines for **Generative AI Usage**](https://www.ieee-ras.org/publications/guidelines-for-generative-ai-usage/) written by IEEE Robotics and Automation Society Website.
+
+
 The   Easychair submission website will be open at URL_TBC (coming soon).  
 
 
