@@ -5,6 +5,8 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 ---
 
 
+[Important Dates](https://imvipconference.github.io/#important-dates) [Paper Submission](https://imvipconference.github.io/#submission-guidelines-for-authors)
+
 # Welcome to IMVIP 2026!
 
 
@@ -57,8 +59,7 @@ Contributions are sought in all aspects of image processing, pattern analysis an
 
 
 
-
-### Submission Guidelines for Authors
+## Submission Guidelines for Authors
 
 Two types of papers can be submitted to IMVIP:
 
