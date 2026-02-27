@@ -9,7 +9,7 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 
 # Welcome to IMVIP 2026!
 
-[[Important Dates]](https://imvipconference.github.io/#important-dates) [[Paper Submission]](https://imvipconference.github.io/#submission-guidelines-for-authors) [[conference Program]](https://imvipconference.github.io/#conference-program)   [[Committees]](https://imvipconference.github.io/#committees)  [[Registration]](https://imvipconference.github.io/#registration)
+[[Important Dates]](https://imvipconference.github.io/#important-dates) [[Paper Submission]](https://imvipconference.github.io/#submission-guidelines-for-authors) [[conference Program]](https://imvipconference.github.io/#conference-program)   [[Committees]](https://imvipconference.github.io/#committees)  [[Registration]](https://imvipconference.github.io/#registration) [[IMVIP history and past proceedings]](https://imvipconference.github.io/#history-of-the-imvip-conference)
 
 <center><img src="Library-with-Logo-ext3.webp" width="80%"></center>
 
@@ -115,6 +115,14 @@ The conference programme will be updated in early August, but in line with previ
 
 
 # Registration
+
+
+The registration fees includes annual membership to the IPRCS, IAPR and IFCS.
+**Each registration covers one paper only (please enter paper number when registering).**
+
+- Student registration (early bird registration/late registration): €TBD / €TBD
+
+- Full registration (early bird registration/late registration): €TBD / €TBD
 
 
 
