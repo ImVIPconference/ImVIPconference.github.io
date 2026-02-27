@@ -9,7 +9,7 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 
 # Welcome to IMVIP 2026!
 
-[[Important Dates]](https://imvipconference.github.io/#important-dates) [[Paper Submission]](https://imvipconference.github.io/#submission-guidelines-for-authors) [[Commitees]](https://imvipconference.github.io/#committees)
+[[Important Dates]](https://imvipconference.github.io/#important-dates) [[Paper Submission]](https://imvipconference.github.io/#submission-guidelines-for-authors) [[conference Program]](https://imvipconference.github.io/#conference-program)   [[Committees]](https://imvipconference.github.io/#committees)  [[Registration]](https://imvipconference.github.io/#registration)
 
 <center><img src="Library-with-Logo-ext3.webp" width="80%"></center>
 
@@ -89,10 +89,17 @@ Submission requirements:
 The   submission website will be open at URL_TBC (coming soon).  
 
 
-# Conference programme 
+# Conference program
+
+## Keynote speakers
+
+TBA
+
+
+## Programme
+
 
 The conference programme will be updated in early August, but in line with previous IMVIP conferences, we indicate below start/end day and time for the conference. 
-
 
 - Wednesday 26th August 2026
 
@@ -105,6 +112,9 @@ The conference programme will be updated in early August, but in line with previ
 - Friday 28th August 2026
 
     - 12:00pm  Conference end. 
+
+
+# Registration
 
 
 
