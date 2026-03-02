@@ -96,10 +96,11 @@ Submission requirements:
 
 - Both submitting **authors** and **reviewers**  for IMVIP 2026 are requested to follow  [Guidelines for **Generative AI Usage**](https://www.ieee-ras.org/publications/guidelines-for-generative-ai-usage/) written by IEEE Robotics and Automation Society Website.
 
+Submission system:
 
 The CMT submission website will be open at URL_TBC (coming soon).  
 
-> The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 
 # Conference program
