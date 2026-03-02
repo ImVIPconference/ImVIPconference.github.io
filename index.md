@@ -9,7 +9,8 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 
 # Welcome to IMVIP 2026!
 
-[[Important Dates]](https://imvipconference.github.io/#important-dates) [[Paper Submission]](https://imvipconference.github.io/#submission-guidelines-for-authors) [[conference Program]](https://imvipconference.github.io/#conference-program)   [[Committees]](https://imvipconference.github.io/#committees)  [[Registration]](https://imvipconference.github.io/#registration) [[IMVIP history and past proceedings]](https://imvipconference.github.io/#history-of-the-imvip-conference)
+
+[Important Dates](https://imvipconference.github.io/#important-dates) || [Paper Submission](https://imvipconference.github.io/#submission-guidelines-for-authors) ||[conference Program](https://imvipconference.github.io/#conference-program) ||  [Committees](https://imvipconference.github.io/#committees) || [Registration](https://imvipconference.github.io/#registration) || [IMVIP history](https://imvipconference.github.io/#history-of-the-imvip-conference)
 
 <center><img src="Library-with-Logo-ext3.webp" width="80%"></center>
 
@@ -86,7 +87,11 @@ Submission requirements:
 - Both submitting **authors** and **reviewers**  for IMVIP 2026 are requested to follow  [Guidelines for **Generative AI Usage**](https://www.ieee-ras.org/publications/guidelines-for-generative-ai-usage/) written by IEEE Robotics and Automation Society Website.
 
 
-The   submission website will be open at URL_TBC (coming soon).  
+The CMT submission website will be open at URL_TBC (coming soon).  
+
+```
+The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+ ```
 
 
 # Conference program
@@ -128,7 +133,7 @@ The registration fees includes annual membership to the IPRCS, IAPR and IFCS.
 
 #  Committees
 
-Contact for enquiries: TBD 
+Contact for enquiries: `imvip-2026(at)mu.ie`
 
 ## Organising Committee
 
