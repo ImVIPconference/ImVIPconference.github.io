@@ -10,6 +10,8 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 # Welcome to IMVIP 2026!
 
 
+<center>
+
 [Important Dates](https://imvipconference.github.io/#important-dates) | 
 [Paper Submission](https://imvipconference.github.io/submission-guidelines-for-authors) |
 [conference Program](https://imvipconference.github.io/#conference-program) |
@@ -17,7 +19,9 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 [Registration](https://imvipconference.github.io/#registration) |
 [IMVIP history](https://imvipconference.github.io/#history-of-the-imvip-conference)
 
-<center><img src="Library-with-Logo-ext3.webp" width="80%"></center>
+<img src="Library-with-Logo-ext3.webp" width="80%">
+
+</center>
 
 
 The **Irish Machine Vision and Image Processing (IMVIP) conference** (IMVIP 2026) will be hosted at [Maynooth University](https://www.maynoothuniversity.ie/), in Ireland:
