@@ -12,7 +12,7 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 
 
 [Important Dates](https://imvipconference.github.io/#important-dates) | 
-[Paper Submission](https://imvipconference.github.io/submission-guidelines-for-authors) |
+[Paper Submission](https://imvipconference.github.io/#submission-guidelines-for-authors) |
 [conference Program](https://imvipconference.github.io/#conference-program) |
 [Committees](https://imvipconference.github.io/#committees) | 
 [Registration](https://imvipconference.github.io/#registration) |
@@ -156,7 +156,5 @@ TBC
  
 ## History of the IMVIP conference
 
-- [2025 IMVIP conference webpage](index-imvip2025.html)
-- [Past IMVIP proceedings](https://iprcs.github.io/IMVIP.html)
-
-[def]: Li
+- [IMVIP2025](index-imvip2025.html), [IMVIP 2024](https://sites.google.com/view/imvip2024/home), [IMVIP2023](https://www.universityofgalway.ie/c3i/news---events/imvip_2023/), ...
+- [IMVIP proceedings](https://iprcs.github.io/IMVIP.html)
