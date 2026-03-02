@@ -94,9 +94,7 @@ Submission requirements:
 
 The CMT submission website will be open at URL_TBC (coming soon).  
 
-```
-The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
- ```
+> The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 
 # Conference program
