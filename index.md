@@ -107,7 +107,19 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 
 ## Keynote speakers
 
-TBA
+<table>
+<tr>
+<td><img src="https://sonhua.github.io/images/face2019.jpg" width="100" ></td>
+<td> Our first confirmed Keynote at IMVIP 2026 is <a href="https://sonhua.github.io/">Prof. Binh-Son Hua</a> from Trinity College Dublin! check out his amazing research in computer vision,  deep learning and computer graphics  on <a href="https://sonhua.github.io/">his website!</a>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>TBA</td>
+
+</tr>
+</table>
+
 
 
 ## Programme
