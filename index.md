@@ -180,7 +180,15 @@ Contact for enquiries: `imvip-2026(at)mu.ie`
 - Niall	McLaughlin, Queen's University Belfast
 - Derek	Molloy, Dublin City University
 - George	Moore, Ulster University
-- 
+- Aidan	Murphy, University College Dublin
+- Victoria	Porter, Queen's University, Belfast
+- Kislay	Raj, Dublin City University
+- Katterine	Rios Peralta, University College Dublin
+- Michael	Schukat, University of Galway
+- Bryan	Scotney,  Ulster University
+- Rudi	Villing, Maynooth University
+- Rozenn Dahyot, Maynooth University
+- Vladimir	Krylov, Dublin City University
  
 ## History of the IMVIP conference
 
