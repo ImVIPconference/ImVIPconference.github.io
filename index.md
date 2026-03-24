@@ -16,6 +16,7 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 [Conference Program](https://imvipconference.github.io/#conference-program) |
 [Registration](https://imvipconference.github.io/#registration) |
 [Committees](https://imvipconference.github.io/#committees) | 
+[Sponsors](https://imvipconference.github.io/#sponsors) | 
 [IMVIP history](https://imvipconference.github.io/#history-of-the-imvip-conference)
 
 <center>
