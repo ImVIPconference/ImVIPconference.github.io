@@ -165,7 +165,22 @@ Contact for enquiries: `imvip-2026(at)mu.ie`
 
 ## Programme Committee
 
-TBC
+- Larbi	Boubchir, University of Paris 8
+- Sonya	Coleman, School of Computing and Intelligent Systems, University of Ulster
+- Jane	Courtney, TU Dublin
+- Kenneth	Dawson-Howe, Trinity College Dublin
+- Soumyabrata	Dev, University College Dublin
+- Richard	Gault, Queen's University, Belfast
+- Shane	Gilroy, Atlantic Technological University
+- Mark	Halton, University of Limerick
+- Dermot	Kerr, Ulster University
+- Gerard	Lacey,  Maynooth University
+- Brian	Mac Namee, University College Dublin
+- James	McDermott,  University of Galway
+- Niall	McLaughlin, Queen's University Belfast
+- Derek	Molloy, Dublin City University
+- George	Moore, Ulster University
+- 
  
 ## History of the IMVIP conference
 
