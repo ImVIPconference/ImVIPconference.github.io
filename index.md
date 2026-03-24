@@ -189,6 +189,10 @@ Contact for enquiries: `imvip-2026(at)mu.ie`
 - Rudi	Villing, Maynooth University
 - Rozenn Dahyot, Maynooth University
 - Vladimir	Krylov, Dublin City University
+
+## Sponsors
+
+[![](https://iprcs.github.io/images/logo.gif)](https://iprcs.github.io/)
  
 ## History of the IMVIP conference
 
