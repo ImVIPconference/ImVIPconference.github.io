@@ -166,6 +166,7 @@ Contact for enquiries: `imvip-2026(at)mu.ie`
 
 ## Programme Committee
 
+
 - Larbi	Boubchir, University of Paris 8
 - Sonya	Coleman, School of Computing and Intelligent Systems, University of Ulster
 - Jane	Courtney, TU Dublin
@@ -177,7 +178,9 @@ Contact for enquiries: `imvip-2026(at)mu.ie`
 - Dermot	Kerr, Ulster University
 - Gerard	Lacey,  Maynooth University
 - Brian	Mac Namee, University College Dublin
+- Michael Manzke, Trinity College Dublin
 - James	McDermott,  University of Galway
+- John McDonald, Maynooth University
 - Niall	McLaughlin, Queen's University Belfast
 - Derek	Molloy, Dublin City University
 - George	Moore, Ulster University
