@@ -183,7 +183,8 @@ Contact for enquiries: `imvip-2026(at)mu.ie`
 - John McDonald, Maynooth University
 - Niall	McLaughlin, Queen's University Belfast
 - Derek	Molloy, Dublin City University
-- George	Moore, Ulster University
+- George Moore, Ulster University
+- Sean Mullery, Atlantic Technological University
 - Aidan	Murphy, University College Dublin
 - Victoria	Porter, Queen's University, Belfast
 - Kislay	Raj, Dublin City University
