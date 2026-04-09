@@ -111,12 +111,15 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 <table>
 <tr>
 <td><img src="https://sonhua.github.io/images/face2019.jpg" width="200" ></td>
-<td> Our first confirmed Keynote at IMVIP 2026 is <a href="https://sonhua.github.io/">Prof. Binh-Son Hua</a> from Trinity College Dublin! Check out his amazing research in computer vision,  deep learning and computer graphics  on <a href="https://sonhua.github.io/">his website!</a>
+<td> Our first confirmed Keynote at IMVIP 2026 is <a href="https://sonhua.github.io/" target="_blank">Prof. Binh-Son Hua</a> from Trinity College Dublin! Check out his amazing research in computer vision,  deep learning and computer graphics  on <a href="https://sonhua.github.io/">his website!</a>
 </td>
 </tr>
 <tr>
-<td></td>
-<td>TBA</td>
+<td><img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=356ahmwAAAAJ&citpid=2" width="200" ></td>
+<td>Our second confirmed Keynote at IMVIP 2026 <a href="https://scholar.google.com/citations?user=356ahmwAAAAJ" target="_blank">Ganesh Sistu</a> 
+Principal AI Architect in Valeo Ireland, and Adjunct Assistant Professor at the University of Limerick.
+
+</td>
 
 </tr>
 </table>
