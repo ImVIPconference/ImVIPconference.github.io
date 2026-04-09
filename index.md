@@ -110,7 +110,7 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 
 <table>
 <tr>
-<td width=100><img src="https://sonhua.github.io/images/face2019.jpg" width="200" ></td>
+<td width="30%"><img src="https://sonhua.github.io/images/face2019.jpg" width="200" ></td>
 <td> Our first confirmed Keynote at IMVIP 2026 is <a href="https://sonhua.github.io/" target="_blank">Prof. Binh-Son Hua</a> from Trinity College Dublin! Check out his amazing research in computer vision,  deep learning and computer graphics  on <a href="https://sonhua.github.io/">his website!</a>
 </td>
 </tr>
@@ -119,9 +119,9 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 <td>Our second confirmed Keynote at IMVIP 2026 <a href="https://scholar.google.com/citations?user=356ahmwAAAAJ" target="_blank">Prof. Ganesh Sistu</a> 
 Principal AI Architect in Valeo Ireland, and Adjunct Assistant Professor at the University of Limerick.
 <br>
-
-**Bio:** Ganesh Sistu is leading multiple global research teams focusing on automated driving and parking at Valeo Ireland.
- Ganesh Sistu is leading multiple global research teams focusing on automated driving and parking at Valeo Ireland. With over 15 years of experience in computer vision and machine learning, he has contributed to 40+ publications in top-tier conferences such as ICCV, ICRA, and WACV, garnering over 2,000 citations and 30+ US and EU patent filings. He also plays a pivotal role in guiding the future of AI education as an Adjunct Assistant Professor at the University of Limerick and as an industry board member for Research Ireland's Data Science PhD and the National MSc in AI programs at the University of Limerick, blending academic insight with industry expertise.
+<br>
+ Ganesh Sistu is leading multiple global research teams focusing on automated driving and parking at Valeo Ireland.
+ With over 15 years of experience in computer vision and machine learning, he has contributed to 40+ publications in top-tier conferences such as ICCV, ICRA, and WACV, garnering over 2,000 citations and 30+ US and EU patent filings. He also plays a pivotal role in guiding the future of AI education as an Adjunct Assistant Professor at the University of Limerick and as an industry board member for Research Ireland's Data Science PhD and the National MSc in AI programs at the University of Limerick, blending academic insight with industry expertise.
 
 </td>
 
