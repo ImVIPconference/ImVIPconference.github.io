@@ -116,7 +116,7 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 </tr>
 <tr>
 <td><img src="Keynote2026-Ganesh-Sistu.jpeg" width="200" ></td>
-<td>Our second confirmed Keynote at IMVIP 2026 <a href="https://scholar.google.com/citations?user=356ahmwAAAAJ" target="_blank">Ganesh Sistu</a> 
+<td>Our second confirmed Keynote at IMVIP 2026 <a href="https://scholar.google.com/citations?user=356ahmwAAAAJ" target="_blank">Prof. Ganesh Sistu</a> 
 Principal AI Architect in Valeo Ireland, and Adjunct Assistant Professor at the University of Limerick.
 
 </td>
