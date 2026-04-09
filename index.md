@@ -119,6 +119,11 @@ The Microsoft CMT service was used for managing the peer-reviewing process for t
 <td>Our second confirmed Keynote at IMVIP 2026 <a href="https://scholar.google.com/citations?user=356ahmwAAAAJ" target="_blank">Prof. Ganesh Sistu</a> 
 Principal AI Architect in Valeo Ireland, and Adjunct Assistant Professor at the University of Limerick.
 
+<br>
+<details>
+									<summary>**Bio:** Ganesh Sistu is leading multiple global research teams focusing on automated driving and parking at Valeo Ireland...</summary>
+ Ganesh Sistu is leading multiple global research teams focusing on automated driving and parking at Valeo Ireland. With over 15 years of experience in computer vision and machine learning, he has contributed to 40+ publications in top-tier conferences such as ICCV, ICRA, and WACV, garnering over 2,000 citations and 30+ US and EU patent filings. He also plays a pivotal role in guiding the future of AI education as an Adjunct Assistant Professor at the University of Limerick and as an industry board member for Research Ireland's Data Science PhD and the National MSc in AI programs at the University of Limerick, blending academic insight with industry expertise.
+</details>
 </td>
 
 </tr>
