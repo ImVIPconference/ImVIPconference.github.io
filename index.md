@@ -82,14 +82,14 @@ Two types of papers can be submitted to IMVIP:
 
 Submissions will be peer-reviewed by at least two members of the program committee. All accepted papers will be published in the conference proceedings.
 
-Paper templates:
+### Paper templates:
 
 - [Latex Template](https://imvipconference.github.io/imvip_Formatting_Instructions.zip)
 
 - [Paper MS Word  Template](https://imvipconference.github.io/imvip_Formatting_Instructions.docx)
 
 
-Submission requirements:
+### Submission requirements:
 
 - Papers are to be submitted in PDF format for blind review (submitted PDF papers should not allow to identify authors).
 
@@ -97,7 +97,7 @@ Submission requirements:
 
 - Both submitting **authors** and **reviewers**  for IMVIP 2026 are requested to follow  [Guidelines for **Generative AI Usage**](https://www.ieee-ras.org/publications/guidelines-for-generative-ai-usage/) written by IEEE Robotics and Automation Society Website.
 
-Submission system:
+### Submission system:
 
 The CMT submission website is opened:  [CMT IMVIP](https://cmt3.research.microsoft.com/IMVIP2026/).  
 
