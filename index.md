@@ -103,6 +103,19 @@ The CMT submission website is opened:  [CMT IMVIP](https://cmt3.research.microso
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
+### Paper Prizes 
+
+As part of IMVIP 2026, the following paper prizes will be awarded:
+
+- The Jon Campbell best paper Prize
+- Best student paper prize
+
+### Travel Bursaries
+
+The Irish Pattern Recognition and Classification Society (IPRCS) is pleased to offer a small number of national (UK and Ireland residence) and international travel bursaries for delegates presenting at IMVIP 2026 in Maynooth.
+The purpose of the travel bursaries is to support students, early career researchers, and people returning to research following a career break or time away from research (within 6 months of the application).
+
+Information about how to apply to travel bursaries will be posted after notifications of acceptance.
 
 # Conference program
 
