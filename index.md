@@ -171,7 +171,7 @@ The registration fees includes annual membership to the IPRCS, IAPR and IFCS.
 
 - Full registration (early bird registration/late registration): €225 / €250
 
-** Early bird registration applies to registrations on our before 10th July 2026. **
+**Early bird registration applies to registrations on our before 10th July 2026.**
 
 
 
