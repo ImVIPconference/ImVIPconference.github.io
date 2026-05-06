@@ -167,9 +167,9 @@ The conference programme will be updated in early August, but in line with previ
 The registration fees includes annual membership to the IPRCS, IAPR and IFCS.
 **Each registration covers one paper only (please enter paper number when registering).**
 
-- Student registration (early bird registration/late registration): €TBD / €TBD
+- Student registration (early bird registration/late registration): €170 / €200
 
-- Full registration (early bird registration/late registration): €TBD / €TBD
+- Full registration (early bird registration/late registration): €225 / €250
 
 
 
