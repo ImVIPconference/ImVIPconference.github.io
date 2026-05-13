@@ -34,7 +34,7 @@ The 28th **Irish Machine Vision and Image Processing (IMVIP) conference** (IMVIP
 
 ## Important Dates:
 
-- Paper submission deadline: **15th May 2026**
+- Paper submission deadline: ~~15th May 2026~~ **Deadline Extended: 4th June 2026 (Note this is a hard deadline for both long and short papers with no further extensions)**
 - Notification of acceptance: 30th June 2026
 - Camera ready paper deadline: 8th July 2026
 - Early bird registration: before/on  10th July 2026
