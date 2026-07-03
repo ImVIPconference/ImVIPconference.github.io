@@ -103,6 +103,12 @@ The CMT submission website is opened:  [CMT IMVIP](https://cmt3.research.microso
 
 The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
+### Camera Ready papers:
+
+Authors of accepted papers are invited to  fully address the reviewers comments raised as well as possible in their camera ready papers. 
+The AI statement is not required in the camera ready paper to save space.
+
+
 ### Paper Prizes 
 
 As part of IMVIP 2026, the following paper prizes will be awarded:
