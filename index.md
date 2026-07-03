@@ -173,7 +173,7 @@ The registration fees includes annual membership to the IPRCS, IAPR and IFCS.
 
 **Early bird registration applies to registrations on our before 10th July 2026.**
 
-
+[registration website](https://shop.maynoothuniversity.ie/index.php?app=ecom&ns=prodshow&ref=1350041)
 
 #  Committees
 
