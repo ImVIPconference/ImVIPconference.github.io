@@ -186,7 +186,7 @@ The registration fees includes annual membership to the IPRCS, IAPR and IFCS.
 # Accommodation
 Accommodation options are available both on-campus at Maynooth University and at the Glenroyal Hotel (located at a short walk from the campus).
 
-For on-campus accommodation please visit: https://booking.maynoothcampus.com/.
+For on-campus accommodation please visit: [https://booking.maynoothcampus.com/](https://booking.maynoothcampus.com/).
 
 We are currently awaiting a discount voucher code with special rates for IMVIP 2026 conference attendees at the Glenroyal Hotel. We will provide further details here over the coming few days.  
 
