@@ -15,6 +15,7 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 [Paper Submission](https://imvipconference.github.io/#submission-guidelines-for-authors) |
 [Conference Program](https://imvipconference.github.io/#conference-program) |
 [Registration](https://imvipconference.github.io/#registration) |
+[Travel Bursaries](https://imvipconference.github.io/#travel-bursaries) |)
 [Accommodation](https://imvipconference.github.io/#accommodation) |
 [Committees](https://imvipconference.github.io/#committees) | 
 [Sponsors](https://imvipconference.github.io/#sponsors) | 
@@ -120,10 +121,11 @@ As part of IMVIP 2026, the following paper prizes will be awarded:
 
 ### Travel Bursaries
 
-The Irish Pattern Recognition and Classification Society (IPRCS) is pleased to offer a small number of national (UK and Ireland residence) and international travel bursaries for delegates presenting at IMVIP 2026 in Maynooth.
-The purpose of the travel bursaries is to support students, early career researchers, and people returning to research following a career break or time away from research (within 6 months of the application).
+IMVIP 2026 is pleased to announce we have 4 travel bursaries to support student attendance at the conference. Please note you must have an accepted paper and be a registered student at a university or college to be eligible for this bursary. Note: Bursaries will be paid by bank transfer to awardees after the conference has taken place. These bursaries are sponsored by the [Irish Pattern and Classification Society](https://iprcs.github.io/). The bursaries on offer are 2x National bursaries to the value of €250 each and 2x International bursaries to the value of €500 each.
 
-Information about how to apply to travel bursaries will be posted after notifications of acceptance.
+We are now accepting applications for bursaries via the following link: [IMVIP 2026 Travel Bursary Form](https://forms.microsoft.com/e/SUtYNbb24E). 
+
+**The deadline for applications is 5pm Friday 27th July 2026. Final decisions on award recipients will be communicated in early August.** 
 
 # Conference program
 
