@@ -15,6 +15,7 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 [Paper Submission](https://imvipconference.github.io/#submission-guidelines-for-authors) |
 [Conference Program](https://imvipconference.github.io/#conference-program) |
 [Registration](https://imvipconference.github.io/#registration) |
+[Accommodation](https://imvipconference.github.io/#accommodation) |
 [Committees](https://imvipconference.github.io/#committees) | 
 [Sponsors](https://imvipconference.github.io/#sponsors) | 
 [IMVIP history](https://imvipconference.github.io/#history-of-the-imvip-conference)
@@ -181,6 +182,13 @@ The registration fees includes annual membership to the IPRCS, IAPR and IFCS.
 **Early bird registration applies to registrations on or before 10th July 2026.**
 
 **Register here:** [registration website](https://shop.maynoothuniversity.ie/index.php?app=ecom&ns=prodshow&ref=1350041)
+
+# Accommodation
+Accommodation options are available both on-campus at Maynooth University and at the Glenroyal Hotel (located at a short walk from the campus).
+
+For on-campus accommodation please visit: https://booking.maynoothcampus.com/.
+
+We are currently awaiting a discount voucher code with special rates for IMVIP 2026 conference attendees at the Glenroyal Hotel. We will provide further details here over the coming few days.  
 
 #  Committees
 
