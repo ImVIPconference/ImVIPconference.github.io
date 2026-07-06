@@ -188,7 +188,7 @@ Accommodation options are available both on-campus at Maynooth University and at
 
 For on-campus accommodation please visit: [https://booking.maynoothcampus.com/](https://booking.maynoothcampus.com/).
 
-We are currently awaiting a discount voucher code with special rates for IMVIP 2026 conference attendees at the Glenroyal Hotel. We will provide further details here over the coming few days.  
+To book accommodation with the Glenroyal hotel please visit: [https://www.glenroyal.ie/](https://www.glenroyal.ie/). Please note, to avail of conference rates please use the voucher code **CONF26** when booking.   
 
 #  Committees
 
