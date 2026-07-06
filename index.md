@@ -125,7 +125,7 @@ IMVIP 2026 is pleased to announce we have 4 travel bursaries to support student 
 
 We are now accepting applications for bursaries via the following link: [IMVIP 2026 Travel Bursary Form](https://forms.microsoft.com/e/SUtYNbb24E). 
 
-**The deadline for applications is 5pm Friday 27th July 2026. Final decisions on award recipients will be communicated in early August.** 
+**The deadline for applications is 5pm Monday 27th July 2026. Final decisions on award recipients will be communicated in early August.** 
 
 # Conference program
 
