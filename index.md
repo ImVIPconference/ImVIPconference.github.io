@@ -205,34 +205,36 @@ Contact for enquiries: `imvip-2026(at)mu.ie`
 
 ## Programme Committee
 
+- Aidan		Murphy,	University College Dublin
+- Brian		Mac Namee,	University College Dublin 
+- Bryan		Scotney,	Ulster University
+- Derek		Molloy,	Dublin City University
+- Dermot		Kerr,	Ulster University
+- Francois		Pitie,	Trinity College Dublin
+- Ganesh		Sistu,	Valeo Vision Systems
+- George		Moore,	Ulster University
+- Hideo		Saito,	Keio University
+- Jane		Courtney,	TU Dublin
+- John		McDonald,	Maynooth University
+- Katterine 	N	Rios Peralta,	University College Dublin
+- Kislay		Raj,	Dublin City University
+- Mark		Halton,	University of Limerick
+- Michael		Manzke,	Trinity College Dublin
+- Michael		Schukat,	University of Galway
+- Niall		McLaughlin,	Queen's University Belfast
+- Richard		Gault,	Queen's University, Belfast
+- Roshan		George,	University of Galway
+- Rozenn		Dahyot,	Maynooth University
+- Ruairi­	D	O'Reilly,	Cork Institute of Technology
+- Sean		Mullery,	Atlantic Technological University
+- Shane		Gilroy,	Atlantic Technological University
+- Sonya		Coleman,	School of Computing and Intelligent Systems, University of Ulster
+- Soumyabrata		Dev,	University College Dublin
+- Tony		Scanlan,	University of Limerick
+- Victoria	M.A.	Porter,	Queen's University, Belfast
+- Vladimir		Krylov,	Dublin City University
+- Zi		Ye,	Maynooth University
 
-- Larbi	Boubchir, University of Paris 8
-- Sonya	Coleman, School of Computing and Intelligent Systems, University of Ulster
-- Jane	Courtney, TU Dublin
-- Kenneth	Dawson-Howe, Trinity College Dublin
-- Soumyabrata	Dev, University College Dublin
-- Richard	Gault, Queen's University, Belfast
-- Shane	Gilroy, Atlantic Technological University
-- Mark	Halton, University of Limerick
-- Dermot	Kerr, Ulster University
-- Gerard	Lacey,  Maynooth University
-- Brian	Mac Namee, University College Dublin
-- Michael Manzke, Trinity College Dublin
-- James	McDermott,  University of Galway
-- John McDonald, Maynooth University
-- Niall	McLaughlin, Queen's University Belfast
-- Derek	Molloy, Dublin City University
-- George Moore, Ulster University
-- Sean Mullery, Atlantic Technological University
-- Aidan	Murphy, University College Dublin
-- Victoria	Porter, Queen's University, Belfast
-- Kislay	Raj, Dublin City University
-- Katterine	Rios Peralta, University College Dublin
-- Michael	Schukat, University of Galway
-- Bryan	Scotney,  Ulster University
-- Rudi	Villing, Maynooth University
-- Rozenn Dahyot, Maynooth University
-- Vladimir	Krylov, Dublin City University
 
 ## Sponsors
 
