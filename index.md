@@ -30,7 +30,7 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 
 The 28th **Irish Machine Vision and Image Processing (IMVIP) conference** (IMVIP 2026) will be hosted at [Maynooth University](https://www.maynoothuniversity.ie/), in Ireland:
 
-- Venue details: [Maynooth campus](https://www.openstreetmap.org/#map=16/53.38206/-6.59762)
+- Venue details: [Maynooth campus](https://www.openstreetmap.org/#map=16/53.38206/-6.59762) - see information [how to get there](https://www.maynoothuniversity.ie/international/getting-maynooth)
 - Conference Dates: **26th to 28th August 2026** 
 
 
