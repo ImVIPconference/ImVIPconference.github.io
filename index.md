@@ -183,7 +183,7 @@ The registration fees includes annual membership to the IPRCS, IAPR and IFCS.
 
 **Early bird registration applies to registrations on or before 10th July 2026.**
 
-**Register here:** [registration website](https://shop.maynoothuniversity.ie/index.php?app=ecom&ns=prodshow&ref=1350041)
+**Register here:** [registration website](https://shop.maynoothuniversity.ie/product/imvip-2026-conference/)
 
 # Accommodation
 Accommodation options are available both on-campus at Maynooth University and at the Glenroyal Hotel (located at a short walk from the campus).
