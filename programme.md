@@ -2,18 +2,15 @@
 layout: default
 title: Conference Programme - IMVIP 2026
 ---
+[Day 1: Wednesday, August 26, 2026](#day-1-wednesday-august-26-2026) |
+[Day 2: Thursday, August 27, 2026](#day-2-thursday-august-27-2026) |
+[Day 3: Friday, August 28, 2026](#day-3-friday-august-28-2026)
+---
 
 # IMVIP 2026 Conference Programme (Tentative)
 
 **Irish Machine Vision and Image Processing Conference (IMVIP 2026)**  
 Dates: August 26–28, 2026 
-
----
-
-## Quick Navigation
-- [Day 1: Wednesday, August 26, 2026](#day-1-wednesday-august-26-2026)
-- [Day 2: Thursday, August 27, 2026](#day-2-thursday-august-27-2026)
-- [Day 3: Friday, August 28, 2026](#day-3-friday-august-28-2026)
 
 ---
 
