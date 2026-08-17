@@ -128,6 +128,8 @@ We are now accepting applications for bursaries via the following link: [IMVIP 2
 **The deadline for applications is 5pm Monday 27th July 2026. Final decisions on award recipients will be communicated in early August.** 
 
 # Conference program
+The full schedule, session details, and paper listings are now available:
+**[View the Full IMVIP 2026 Programme](programme.html)**
 
 ## Keynote speakers
 
