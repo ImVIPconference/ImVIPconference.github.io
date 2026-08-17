@@ -329,15 +329,15 @@ title: Conference Programme - IMVIP 2026
     <ul class="paper-list">
       <li class="paper-item">
         <span class="paper-title">Efficient automatic traffic light alteration for sparse traffic flow</span>
-        <span class="paper-authors">Kenneth Dawson-Howe (Trinity College)</span>
+        <span class="paper-authors">Steven Bondaruk (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Automatic Passing Vehicle to Cyclist Distance Estimation</span>
-        <span class="paper-authors">Kenneth Dawson-Howe (Trinity College)</span>
+        <span class="paper-authors">Steven Bondaruk (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">A Computer Vision Tool to Aid Beginner Electric Bass Players with Fretboard Navigation</span>
-        <span class="paper-authors">Kenneth Dawson-Howe (Trinity College)</span>
+        <span class="paper-authors">Zemyna Kulikausk (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">A Hybrid Deployment Framework for Industrial Quality Control Using GelSight Tactile Sensing</span>
