@@ -171,7 +171,7 @@ title: Conference Programme - IMVIP 2026
 <div class="programme-wrapper">
 
   <h1>IMVIP 2026 Conference Programme</h1>
-  <p><em>Irish Machine Vision and Image Processing Conference &bull; Maynooth University &bull; August 26–28, 2026 (All times in IST)</em></p>
+  <p><em>Irish Machine Vision and Image Processing Conference &bull; Maynooth University &bull; August 26–28, 2026</em></p>
 
   <!-- Quick Navigation Tabs -->
   <div class="day-nav">
