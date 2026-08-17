@@ -311,6 +311,7 @@ title: Conference Programme - IMVIP 2026
       <h3 class="session-title">Keynote 2</h3>
       <span class="time-badge">14:00 – 15:00</span>
     </div>
+    <div class="chair-info"><strong>Session Chair:</strong> John McDonald</div>
     <div class="speaker-container">
       <img src="Keynote2026-Ganesh-Sistu.jpeg" alt="Prof. Ganesh Sistu" class="speaker-img">
       <div class="speaker-details">
@@ -396,7 +397,6 @@ title: Conference Programme - IMVIP 2026
       <h3 class="session-title">IPRCS AGM</h3>
       <span class="time-badge">17:40 – 18:20</span>
     </div>
-    <div class="chair-info"><strong>Session Chair:</strong> Sonya Coleman</div>
   </div>
 
   <div class="session-card session-social">
