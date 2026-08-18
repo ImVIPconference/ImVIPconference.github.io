@@ -336,7 +336,7 @@ title: Conference Programme - IMVIP 2026
     <ul class="paper-list">
       <li class="paper-item">
         <span class="paper-title">Efficient automatic traffic light alteration for sparse traffic flow</span>
-        <span class="paper-authors">Steven Bondaruk (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
+        <span class="paper-authors">Afif Imtiyaz Khan Deshmukh (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Automatic Passing Vehicle to Cyclist Distance Estimation</span>
