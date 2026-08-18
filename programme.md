@@ -217,15 +217,15 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Christopher Anich (CCT College Dublin), Kislay Raj (Dublin City University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Motion-Based Detection and Tracking of Trypanosoma cruzi Parasites in Microscopy Videos <span class="paper-badge">20m</span></span>
+        <span class="paper-title">Motion-Based Detection and Tracking of Trypanosoma cruzi Parasites in Microscopy Videos </span>
         <span class="paper-authors">Senem Aktas (Maynooth University), Lavdie Rada (Bahcesehir University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Data-Efficient AI for Microstructure Characterisation in Pharmaceutical Microscopy <span class="paper-badge">20m</span></span>
+        <span class="paper-title">Data-Efficient AI for Microstructure Characterisation in Pharmaceutical Microscopy </span>
         <span class="paper-authors">Hanieh Khosravi (Atlantic Technological University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Deep Learning-Enabled Intelligent Health Care System for Early Diagnosis of Alzheimer’s Disease <span class="paper-badge">20m</span></span>
+        <span class="paper-title">Deep Learning-Enabled Intelligent Health Care System for Early Diagnosis of Alzheimer’s Disease </span>
         <span class="paper-authors">Summaiya Mehmood (NED University of Engineering & Technology), Dr Muslim Jameel Syed (Atlantic Technological University, Galway)</span>
       </li>
       <li class="paper-item">
@@ -412,7 +412,7 @@ title: Conference Programme - IMVIP 2026
     </div>
     <ol class="paper-list">
       <li class="paper-item">
-        <span class="paper-title">Pix2Repair: Implicit Shape Restoration from Images <span class="paper-badge">20m</span></span>
+        <span class="paper-title">Pix2Repair: Implicit Shape Restoration from Images</span>
         <span class="paper-authors">Sean Banerjee (Wright State University)</span>
       </li>
       <li class="paper-item">
