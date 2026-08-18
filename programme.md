@@ -349,10 +349,6 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Lucas Scott (Ulster University), Sonya Coleman (Ulster University), Dermot Kerr (Ulster University), Philip Vance (Ulster University), Yunzhou Zhang (Northeastern University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Vehicle Damage Detection Using Computer Vision and Machine Learning</span>
-        <span class="paper-authors">Michael McKeogh (TUS), Shane Gilroy (Atlantic Technological University)</span>
-      </li>
-      <li class="paper-item">
         <span class="paper-title">Transformers Cross-Attention Audio-Visual Fusion</span>
         <span class="paper-authors">Lucas Hindes (Ulster University), Nazmul Siddique (Ulster University), Philip Vance (Ulster University), Sonya Coleman (Ulster University)</span>
       </li>
