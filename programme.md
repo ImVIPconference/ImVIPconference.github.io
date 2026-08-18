@@ -182,7 +182,13 @@ title: Conference Programme - IMVIP 2026
 
   <!-- ================= DAY 1 ================= -->
   <h2 id="day-1" class="day-header">Day 1: Wednesday, August 26, 2026</h2>
-
+  <div class="session-card session-social">
+    <div class="session-title-bar">
+      <h3 class="session-title">Conference Registration</h3>
+      <span class="time-badge">13:00 – 14:00</span>
+    </div>
+  </div>
+  
   <div class="session-card session-keynote">
     <div class="session-title-bar">
       <h3 class="session-title">Keynote 1</h3>
