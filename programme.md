@@ -378,12 +378,12 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Dr. Satyajit Nayak (Valeo India Pvt. Ltd.), Patitapaban Palo (University of Oxford), Kwanit Gupta (Valeo), Satarupa Uttarkabat (IIT, Kharagpur), Ganesh Sistu (Valeo Vision Systems), Mohamed Tarek (UL)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Towards ISP-Free Fisheye Camera Perception: An Evaluation in Image and BEV Space</span>
-        <span class="paper-authors">Krishna Prasath Kizhpada Vasudevan (University of Limerick), Ganesh Sistu (Valeo Vision Systems), Ciarán Eising (University of Limerick)</span>
-      </li>
-      <li class="paper-item">
         <span class="paper-title">Multi-session Online Open-Vocabulary Object Mapping</span>
         <span class="paper-authors">Frank Gallagher (Maynooth University), John McDonald (Maynooth University)</span>
+      </li>
+      <li class="paper-item">
+        <span class="paper-title">Towards ISP-Free Fisheye Camera Perception: An Evaluation in Image and BEV Space</span>
+        <span class="paper-authors">Krishna Prasath Kizhpada Vasudevan (University of Limerick), Ganesh Sistu (Valeo Vision Systems), Ciarán Eising (University of Limerick)</span>
       </li>
     </ol>
   </div>
@@ -416,12 +416,12 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Sean Banerjee (Wright State University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">A Domain and Sensor-Adaptive Metric Road Width Estimation from Dual Rear Cameras via Transfer Learning</span>
-        <span class="paper-authors">Zuha Hussain (University of Galway)</span>
-      </li>
-      <li class="paper-item">
         <span class="paper-title">ARAS-FCWNet: Low-cost and Light-weight Model for Forward Collision Warning (FCW) System in Unstructured ARAS</span>
         <span class="paper-authors">Dr. Satyajit Nayak (Valeo India Pvt. Ltd.), Lakshman Prabhu (Valeo India Private Limited), Ganesh Sistu (Valeo Vision Systems)</span>
+      </li>
+      <li class="paper-item">
+        <span class="paper-title">A Domain and Sensor-Adaptive Metric Road Width Estimation from Dual Rear Cameras via Transfer Learning</span>
+        <span class="paper-authors">Zuha Hussain (University of Galway)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Training-Free Geometric Stabilization for Monocular 3D Detection in Advanced Rider-Assistance Systems</span>
