@@ -111,7 +111,6 @@ Authors of accepted papers are invited to  fully address the reviewers comments 
 
 The AI statement is not required in the camera ready paper to save space.
 
-
 ### Paper Prizes 
 
 As part of IMVIP 2026, the following paper prizes will be awarded:
@@ -170,7 +169,15 @@ The conference programme will be updated in early August, but in line with previ
 
 - Friday 28th August 2026
 
-    - 12:00pm  Conference end. 
+    - 12:00pm  Conference end.
+ 
+## Guidelines for Presenters:
+
+All oral presentations for contributed papers will be scheduled within the individual oral sessions, and allotted a time of 20 minutes consisting of 15 minutes for the paper presentation and 5 minutes for questions.
+
+Poster presenters will be provided with a single **portrait** A0 poster panel during the poster session. Given that the poster panels are AO portrait format, if posters are in landscape format they will need to be no larger than A1 in size. Presenters should print their poster in advance of the conference and bring it with them on the day, as there will be **poster printing facility available on site**.
+
+If you have any questions on any of the above please get in touch by email: [imvip-2026@mu.ie](mailto:imvip-2026@mu.ie)
 
 
 # Registration
