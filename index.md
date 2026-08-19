@@ -132,6 +132,17 @@ We are now accepting applications for bursaries via the following link: [IMVIP 2
 The full schedule, session details, and paper listings are now available:
 **[View the Full IMVIP 2026 Programme](programme.html)**
 
+- Wednesday 26th August 2026
+
+    - 1:00-2:00 pm Conference registration
+
+    - 2:00 pm Conference starts
+
+-  Thursday 27th August 2026
+
+- Friday 28th August 2026
+
+    - 13:00pm  Conference end.
 ## Keynote speakers
 
 <table>
@@ -154,25 +165,6 @@ Principal AI Architect in Valeo Ireland, and Adjunct Assistant Professor at the 
 </tr>
 </table>
 
-
-
-## Programme
-
-
-The conference programme will be updated in early August, but in line with previous IMVIP conferences, we indicate below start/end day and time for the conference. 
-
-- Wednesday 26th August 2026
-
-    - 1:00-2:00 pm Conference registration
-
-    - 2:00 pm Conference starts
-
--  Thursday 27th August 2026
-
-- Friday 28th August 2026
-
-    - 12:00pm  Conference end.
- 
 ## Guidelines for Presenters:
 
 All oral presentations for contributed papers will be scheduled within the individual oral sessions, and allotted a time of 20 minutes consisting of 15 minutes for the paper presentation and 5 minutes for questions.
