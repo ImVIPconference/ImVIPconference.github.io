@@ -143,6 +143,7 @@ The full schedule, session details, and paper listings are now available:
 - Friday 28th August 2026
 
     - 13:00pm  Conference end.
+    
 ## Keynote speakers
 
 <table>
