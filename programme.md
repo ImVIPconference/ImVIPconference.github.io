@@ -127,10 +127,33 @@ title: Conference Programme - IMVIP 2026
     color: #8250df;
     margin-bottom: 6px;
   }
-  .talk-title-placeholder {
-    font-style: italic;
-    color: #6e7781;
+/* Keynote Talk & Abstract Styling */
+  .keynote-talk-title {
+    font-size: 0.98rem;
+    font-weight: 700;
+    color: #1f2328;
+    margin-top: 8px;
+    margin-bottom: 6px;
+  }
+  .keynote-abstract {
     margin-top: 6px;
+    font-size: 0.9rem;
+    color: #57606a;
+    background: #f6f8fa;
+    border-left: 3px solid #8250df;
+    padding: 8px 12px;
+    border-radius: 4px;
+    line-height: 1.45;
+  }
+  .keynote-abstract summary {
+    font-weight: 600;
+    color: #8250df;
+    cursor: pointer;
+    user-select: none;
+    outline: none;
+  }
+  .keynote-abstract p {
+    margin: 8px 0 0 0;
   }
 
   /* Paper List */
@@ -323,7 +346,16 @@ title: Conference Programme - IMVIP 2026
       <div class="speaker-details">
         <div class="speaker-name"><a href="https://scholar.google.com/citations?user=356ahmwAAAAJ" target="_blank">Prof. Ganesh Sistu</a></div>
         <div class="speaker-affil">Principal AI Architect, Valeo Ireland &bull; Adjunct Assistant Professor, University of Limerick</div>
-        <div class="talk-title-placeholder">Talk Title: To be announced</div>
+        <div class="keynote-talk-title">Title: Evolution of Autonomy Stacks: From Rules to Physical AI</div>
+        <details class="keynote-abstract">
+          <summary>View Abstract &amp; Bio</summary>
+          <p><strong>Abstract:</strong> Autonomous driving has evolved from a collection of limited highway-assistance features, such as Lane Keeping Assist and Adaptive Cruise Control, to increasingly capable systems supporting urban driving, automated parking and eyes-off driving.
+
+A key driver of this transformation has been the evolution from traditional rule-based software built from millions of lines of explicitly engineered code to AI-driven architectures powered by billions of learned neural-network parameters. This shift is fundamentally changing how autonomous systems perceive, reason, plan, and act in the physical world.
+
+In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing the journey from modular autonomy architectures and end-to-end systems to emerging Vision-Language-Action Models and Physical AI systems. The talk will explore how advances in perception, sensing, representation learning, and multimodal foundation models are coming together to create increasingly general and efficient autonomy stacks.</p>
+          <p><strong>Bio:</strong> Ganesh Sistu leads multiple global research teams focusing on automated driving and parking at Valeo Ireland. With over 15 years of experience in computer vision and machine learning, he has contributed to 40+ publications in top-tier conferences (ICCV, ICRA, WACV) and over 30 US/EU patents.</p>
+        </details>
       </div>
     </div>
   </div>
