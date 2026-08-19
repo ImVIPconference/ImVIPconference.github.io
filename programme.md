@@ -348,7 +348,7 @@ title: Conference Programme - IMVIP 2026
       </li>
       <li class="paper-item">
         <span class="paper-title">A Hybrid Deployment Framework for Industrial Quality Control Using GelSight Tactile Sensing</span>
-        <span class="paper-authors">Antonio Gambale (Ulster University), Dermot Kerr (Ulster University), Sonya Coleman (Ulster University)</span>
+        <span class="paper-authors">Kaviyashree Damodaran (Ulster University), Antonio Gambale (Ulster University), Dermot Kerr (Ulster University), Sonya Coleman (Ulster University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Parameter-Efficient Dense Prediction for Cross-View Geo-Localisation in Dense Urban Environments</span>
