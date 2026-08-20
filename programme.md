@@ -502,8 +502,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
     </div>
     <ol class="paper-list">
       <li class="paper-item">
-        <span class="paper-title">Diffusion-Based Saliency Map Generation from RGB Images</span>
-        <span class="paper-authors">Mark Langtry (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
+        <span class="paper-title"><a href="PDF/127.pdf" target="_blank">Diffusion-Based Saliency Map Generation from RGB Images</a></span>
+        <span class="paper-authors">Mark Langtry (University of Limerick), Oisin O’Sullivan (University of Limerick),  Salaheddin Alakkari (University of Limerick)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Thumbnail Guided Tissue Compaction (TGTC) - Whole Slide Image Preprocessing for Lossless Image Compression</span>
