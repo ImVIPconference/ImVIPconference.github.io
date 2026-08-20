@@ -330,8 +330,8 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Md Yearat Hossain (University College Dublin), Arpit Mirdha (University College Dublin), Riju Das (University College Dublin), Gavin McArdle (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Geo-referenced small object detection in oblique aerial imagery</span>
-        <span class="paper-authors">Paolo Moloney (Maynooth University), Tim McCarthy (Maynooth University), John McDonald (Maynooth University)</span>
+        <span class="paper-title"><a href="PDF/128.pdf" target="_blank">Geo-referenced small object detection in oblique aerial imagery</a></span>
+        <span class="paper-authors">Paolo Moloney (Maynooth University), Aidan Magee (Maynooth University), Daire Walsh (Maynooth University), Tim McCarthy (Maynooth University), John McDonald (Maynooth University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Similarity-Augmented Roadside Object Triangulation from street level images</span>
