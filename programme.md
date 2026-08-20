@@ -395,8 +395,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Kaviyashree Damodaran (Ulster University), Antonio Gambale (Ulster University), Dermot Kerr (Ulster University), Sonya Coleman (Ulster University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Parameter-Efficient Dense Prediction for Cross-View Geo-Localisation in Dense Urban Environments</span>
-        <span class="paper-authors">Lucas Scott (Ulster University), Sonya Coleman (Ulster University), Dermot Kerr (Ulster University), Philip Vance (Ulster University), Yunzhou Zhang (Northeastern University)</span>
+        <span class="paper-title"><a href="PDF/023.pdf" target="_blank">Parameter-Efficient Dense Prediction for Cross-View Geo-Localisation in Dense Urban Environments</a></span>
+        <span class="paper-authors">Lucas Scott (Ulster University), Sonya Coleman (Ulster University), Dermot Kerr (Ulster University), Philip Vance (Ulster University), Yunzhou Zhang (Ulster University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Transformers Cross-Attention Audio-Visual Fusion</span>
