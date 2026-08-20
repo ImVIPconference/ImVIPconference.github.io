@@ -371,7 +371,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Coffee &amp; Poster Session 1</h3>
-      <span class="time-badge">15:00 – 15:45</span>
+      <span class="time-badge">15:00 – 15:50</span>
     </div>
     <ul class="paper-list">
       <li class="paper-item">
@@ -416,7 +416,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 4: 3D Vision, Robotics, and Autonomous System I</h3>
-      <span class="time-badge">15:45 – 17:25</span>
+      <span class="time-badge">15:50 – 17:30</span>
     </div>
     <ol class="paper-list">
       <li class="paper-item">
@@ -435,6 +435,10 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-title">Towards ISP-Free Fisheye Camera Perception: An Evaluation in Image and BEV Space</span>
         <span class="paper-authors">Krishna Prasath Kizhpada Vasudevan (University of Limerick), Ganesh Sistu (Valeo Vision Systems), Ciarán Eising (University of Limerick)</span>
       </li>
+      <li class="paper-item">
+        <span class="paper-title">A Domain and Sensor-Adaptive Metric Road Width Estimation from Dual Rear Cameras via Transfer Learning</span>
+        <span class="paper-authors">Zuha Hussain (University of Galway)</span>
+      </li>      
     </ol>
   </div>
 
@@ -458,7 +462,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 5: 3D Vision, Robotics, and Autonomous System II</h3>
-      <span class="time-badge">09:00 – 10:20</span>
+      <span class="time-badge">09:10 – 10:30</span>
     </div>
     <ol class="paper-list">
       <li class="paper-item">
@@ -470,17 +474,13 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Dr. Satyajit Nayak (Valeo India Pvt. Ltd.), Lakshman Prabhu (Valeo India Private Limited), Ganesh Sistu (Valeo Vision Systems)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">A Domain and Sensor-Adaptive Metric Road Width Estimation from Dual Rear Cameras via Transfer Learning</span>
-        <span class="paper-authors">Zuha Hussain (University of Galway)</span>
+        <span class="paper-title">Vision-Based Robotic Hot-Water Weeding for Precision Agriculture</span>
+        <span class="paper-authors">Gregory Mantel (Maynooth University), Gerard Lacey (Maynooth University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Training-Free Geometric Stabilization for Monocular 3D Detection in Advanced Rider-Assistance Systems</span>
         <span class="paper-authors">Lakshman Prabhu (Valeo India Private Limited), Dr. Satyajit Nayak (Valeo India Pvt. Ltd.), Ganesh Sistu (Valeo Vision Systems)</span>
-      </li>
-      <li class="paper-item">
-        <span class="paper-title">Vision-Based Robotic Hot-Water Weeding for Precision Agriculture</span>
-        <span class="paper-authors">Gregory Mantel (Maynooth University), Gerard Lacey (Maynooth University)</span>
-      </li>
+      </li>      
     </ol>
   </div>
 
