@@ -322,8 +322,8 @@ title: Conference Programme - IMVIP 2026
     </div>
     <ol class="paper-list">
       <li class="paper-item">
-        <span class="paper-title">Automask: Promptable Concept Segmentation with SAM3 for Glacier 3D Reconstruction from UAV Imagery</span>
-        <span class="paper-authors">SiCheng Zhao (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
+        <span class="paper-title"><a href="PDF/121.pdf" target="_blank">Automask: Promptable Concept Segmentation with SAM3 for Glacier 3D Reconstruction from UAV Imagery</a></span>
+        <span class="paper-authors">SiCheng Zhao (University College Dublin), Matthew Byrne (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Low-Data RGB-to-NIR Translation with Augmentation and Pseudo-Label Learning</span>
