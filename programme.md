@@ -391,7 +391,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Zemyna Kulikausk (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">A Hybrid Deployment Framework for Industrial Quality Control Using GelSight Tactile Sensing</span>
+        <span class="paper-title"><a href="PDF/016.pdf" target="_blank">A Hybrid Deployment Framework for Industrial Quality Control Using GelSight Tactile Sensing</a></span>
         <span class="paper-authors">Kaviyashree Damodaran (Ulster University), Antonio Gambale (Ulster University), Dermot Kerr (Ulster University), Sonya Coleman (Ulster University)</span>
       </li>
       <li class="paper-item">
