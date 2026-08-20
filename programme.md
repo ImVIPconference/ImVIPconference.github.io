@@ -294,8 +294,8 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Yiyuan Wang (Queen's University Belfast), Ilias Kyriazakis (Queen's University), Jian Gao (Queen's University Belfast), Niall McLaughlin (Queen's University Belfast)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Model Compression for Very Short-Term Solar Irradiance Forecasting Using Infrared Sky Images</span>
-        <span class="paper-authors">Ifran Rahman Nijhum (University College Dublin), David Lillis (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
+        <span class="paper-title"><a href="PDF/145.pdf" target="_blank">Model Compression for Very Short-Term Solar Irradiance Forecasting Using Infrared Sky Images</a></span>
+        <span class="paper-authors">Ifran Rahman Nijhum (University College Dublin), Arnav Jaitly(University College Dublin), David Lillis (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Comparative Study of Parameter-Efficient Fine-Tuning on Low-Resource Vision-Language Modelling: Burmese-CLIP</span>
