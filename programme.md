@@ -245,7 +245,7 @@ title: Conference Programme - IMVIP 2026
     </div>
     <ol class="paper-list">
       <li class="paper-item">
-        <span class="paper-title">Compact CNNs for Chest X-ray Screening: Accuracy, Explainability, and Containerised Deployment</span>
+        <span class="paper-title"><a href="PDF/113.pdf" target="_blank">Compact CNNs for Chest X-ray Screening: Accuracy, Explainability, and Containerised Deployment</a></span>
         <span class="paper-authors">Christopher Anich (CCT College Dublin), Kislay Raj (Dublin City University)</span>
       </li>
       <li class="paper-item">
@@ -424,7 +424,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
     </div>
     <ol class="paper-list">
       <li class="paper-item">
-        <span class="paper-title"><a href="PDF/112.pdf">Bundled Feature Encoding: A Shift-Tolerant Image Representation for Hyperdimensional Computing</a></span>
+        <span class="paper-title"><a href="PDF/112.pdf" target="_blank">Bundled Feature Encoding: A Shift-Tolerant Image Representation for Hyperdimensional Computing</a></span>
         <span class="paper-authors">C.T. Levins (Ulster University), D. Kerr (Ulster University), S. Coleman (Ulster University), J.P. Quinn (Ulster University)</span>
       </li>
       <li class="paper-item">
