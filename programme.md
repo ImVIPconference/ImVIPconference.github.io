@@ -334,7 +334,7 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Paolo Moloney (Maynooth University), Aidan Magee (Maynooth University), Daire Walsh (Maynooth University), Tim McCarthy (Maynooth University), John McDonald (Maynooth University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Similarity-Augmented Roadside Object Triangulation from street level images</span>
+        <span class="paper-title"><a href="PDF/136.pdf" target="_blank">Similarity-Augmented Roadside Object Triangulation from street level images</a></span>
         <span class="paper-authors">Waqar Ahmad (Dublin City University), Vladimir Krylov (Dublin City University)</span>
       </li>
     </ol>
