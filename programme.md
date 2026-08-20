@@ -272,7 +272,7 @@ title: Conference Programme - IMVIP 2026
   <div class="session-card session-social">
     <div class="session-title-bar">
       <h3 class="session-title">Welcome Desk &amp; Badge Collection</h3>
-      <span class="time-badge">8:45 – 9:20</span>
+      <span class="time-badge">8:30 – 9:00</span>
     </div>
     <div style="font-size: 0.88rem; color: #57606a; margin-top: 4px;">
       Conference check-in and name tag collection.  <em>Please note: No on-site registration or payments can be accepted.</em>
@@ -282,12 +282,16 @@ title: Conference Programme - IMVIP 2026
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 2: Machine Learning Techniques and Applications I</h3>
-      <span class="time-badge">09:20 – 10:40</span>
+      <span class="time-badge">09:00 – 10:40</span>
     </div>
     <ol class="paper-list">
       <li class="paper-item">
         <span class="paper-title">MicroBird: Embedded Bird-Audio Classification with Microjoule-Range CNN Inference on the MAX78002</span>
         <span class="paper-authors">Justyna Przyborska (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
+      </li>
+      <li class="paper-item">
+        <span class="paper-title">Towards Long-Term Pig Re-Identification: Investigating Human ReID Methods in Pigs</span>
+        <span class="paper-authors">Yiyuan Wang (Queen's University Belfast), Ilias Kyriazakis (Queen's University), Niall McLaughlin (Queen's University Belfast)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Model Compression for Very Short-Term Solar Irradiance Forecasting Using Infrared Sky Images</span>
@@ -497,10 +501,6 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
       <span class="time-badge">11:00 – 12:40</span>
     </div>
     <ol class="paper-list">
-      <li class="paper-item">
-        <span class="paper-title">Towards Long-Term Pig Re-Identification: Investigating Human ReID Methods in Pigs</span>
-        <span class="paper-authors">Yiyuan Wang (Queen's University Belfast), Ilias Kyriazakis (Queen's University), Niall McLaughlin (Queen's University Belfast)</span>
-      </li>
       <li class="paper-item">
         <span class="paper-title">Diffusion-Based Saliency Map Generation from RGB Images</span>
         <span class="paper-authors">Mark Langtry (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
