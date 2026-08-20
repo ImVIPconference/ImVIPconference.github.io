@@ -399,7 +399,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Lucas Scott (Ulster University), Sonya Coleman (Ulster University), Dermot Kerr (Ulster University), Philip Vance (Ulster University), Yunzhou Zhang (Ulster University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Transformers Cross-Attention Audio-Visual Fusion</span>
+        <span class="paper-title"><a href="PDF/039.pdf" target="_blank">Transformers Cross-Attention Audio-Visual Fusion</a></span>
         <span class="paper-authors">Lucas Hindes (Ulster University), Nazmul Siddique (Ulster University), Philip Vance (Ulster University), Sonya Coleman (Ulster University)</span>
       </li>
       <li class="paper-item">
