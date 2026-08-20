@@ -474,8 +474,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Nikolas Lamb (Clarkson University), Xinchao Song (Rochester Institute of Technology), Natasha Kholgade Banerjee (Wright State University), Sean Banerjee (Wright State University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">ARAS-FCWNet: Low-cost and Light-weight Model for Forward Collision Warning (FCW) System in Unstructured ARAS</span>
-        <span class="paper-authors">Dr. Satyajit Nayak (Valeo India Pvt. Ltd.), Lakshman Prabhu (Valeo India Private Limited), Ganesh Sistu (Valeo Vision Systems)</span>
+        <span class="paper-title"><a href="PDF/133.pdf" target="_blank">ARAS-FCWNet: Low-cost and Light-weight Model for Forward Collision Warning (FCW) System in Unstructured ARAS</a></span>
+        <span class="paper-authors">Satyajit Nayak (Valeo India Pvt. Ltd.), Lakshman-Prabhu Balasubiramanian (Valeo India Private Limited), Rakshita Joshi (Valeo), Ganesh Sistu (Valeo Vision Systems)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Vision-Based Robotic Hot-Water Weeding for Precision Agriculture</span>
