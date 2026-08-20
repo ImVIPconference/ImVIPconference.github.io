@@ -249,8 +249,8 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Christopher Anich (CCT College Dublin), Kislay Raj (Dublin City University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Motion-Based Detection and Tracking of Trypanosoma cruzi Parasites in Microscopy Videos </span>
-        <span class="paper-authors">Senem Aktas (Maynooth University), Lavdie Rada (Bahcesehir University)</span>
+        <span class="paper-title"><a href="PDF/114.pdf" target="_blank">Motion-Based Detection and Tracking of Trypanosoma cruzi Parasites in Microscopy Videos</a></span>
+        <span class="paper-authors">Senem Aktas (Bahcesehir University), Carlos Brito-Loeza (Universidad Autónoma de Yucatán), Hugo Ruiz-Piña (Centro de Investigaciones Regionales Dr. Hideyo Noguchi), Lavdie Rada (Bahcesehir University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Data-Efficient AI for Microstructure Characterisation in Pharmaceutical Microscopy </span>
