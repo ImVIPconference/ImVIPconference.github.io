@@ -379,7 +379,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Afif Imtiyaz Khan Deshmukh (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Automatic Passing Vehicle to Cyclist Distance Estimation</span>
+        <span class="paper-title"><a href="PDF/005.pdf"  target="_blank">Automatic Passing Vehicle to Cyclist Distance Estimation</a></span>
         <span class="paper-authors">Steven Bondaruk (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
       </li>
       <li class="paper-item">
