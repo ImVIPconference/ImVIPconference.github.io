@@ -424,8 +424,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
     </div>
     <ol class="paper-list">
       <li class="paper-item">
-        <span class="paper-title">Bundled Feature Encoding: A Shift-Tolerant Image Representation for Hyperdimensional Computing</span>
-        <span class="paper-authors">Ceallach Levins (Ulster University), Dermot Kerr (Ulster University), Sonya Coleman (Ulster University)</span>
+        <span class="paper-title"><a href="PDF/112.pdf">Bundled Feature Encoding: A Shift-Tolerant Image Representation for Hyperdimensional Computing</a></span>
+        <span class="paper-authors">C.T. Levins (Ulster University), D. Kerr (Ulster University), S. Coleman (Ulster University), J.P. Quinn (Ulster University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">KeyJoint-STGCN: Keypoint-Based Spatio-Temporal Graph Learning for Monocular Trajectory Prediction</span>
