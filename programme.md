@@ -272,7 +272,7 @@ title: Conference Programme - IMVIP 2026
   <div class="session-card session-social">
     <div class="session-title-bar">
       <h3 class="session-title">Welcome Desk &amp; Badge Collection</h3>
-      <span class="time-badge">8:30 – 9:00</span>
+      <span class="time-badge">8:45 – 9:20</span>
     </div>
     <div style="font-size: 0.88rem; color: #57606a; margin-top: 4px;">
       Conference check-in and name tag collection.  <em>Please note: No on-site registration or payments can be accepted.</em>
@@ -282,13 +282,9 @@ title: Conference Programme - IMVIP 2026
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 2: Machine Learning Techniques and Applications I</h3>
-      <span class="time-badge">09:00 – 10:40</span>
+      <span class="time-badge">09:20 – 10:40</span>
     </div>
     <ol class="paper-list">
-      <li class="paper-item">
-        <span class="paper-title">SCULPT: Training Edge Vision Models for Post-Training Quantization Readiness</span>
-        <span class="paper-authors">Bharadwaj Kavuri (Valeo), Prasad Deshpande (Valeo Vision Systems)</span>
-      </li>
       <li class="paper-item">
         <span class="paper-title">MicroBird: Embedded Bird-Audio Classification with Microjoule-Range CNN Inference on the MAX78002</span>
         <span class="paper-authors">Justyna Przyborska (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
@@ -301,6 +297,10 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-title">Comparative Study of Parameter-Efficient Fine-Tuning on Low-Resource Vision-Language Modelling: Burmese-CLIP</span>
         <span class="paper-authors">Htike Thu Kaung (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
       </li>
+      <li class="paper-item">
+        <span class="paper-title">Perspective-Aware Billboard Corner Detection with a Web-Based End-to-End System</span>
+        <span class="paper-authors">Sukriti Dhang (University College Dublin), Mimi Zhang (Trinity College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
+      </li>      
     </ol>
   </div>
 
@@ -314,7 +314,7 @@ title: Conference Programme - IMVIP 2026
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 3: Aerial and Geospatial Image Processing</h3>
-      <span class="time-badge">11:10 – 12:50</span>
+      <span class="time-badge">11:10 – 12:30</span>
     </div>
     <ol class="paper-list">
       <li class="paper-item">
@@ -333,17 +333,13 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-title">Similarity-Augmented Roadside Object Triangulation from street level images</span>
         <span class="paper-authors">Waqar Ahmad (Dublin City University), Vladimir Krylov (Dublin City University)</span>
       </li>
-      <li class="paper-item">
-        <span class="paper-title">Perspective-Aware Billboard Corner Detection with a Web-Based End-to-End System</span>
-        <span class="paper-authors">Sukriti Dhang (University College Dublin), Mimi Zhang (Trinity College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
-      </li>
     </ol>
   </div>
 
   <div class="session-card session-break">
     <div class="session-title-bar">
       <h3 class="session-title">Lunch Break</h3>
-      <span class="time-badge">12:50 – 14:00</span>
+      <span class="time-badge">12:30 – 14:00</span>
     </div>
   </div>
 
@@ -410,6 +406,10 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-title">Enhancing an Emotion-Labelled Video Dataset with Pose Estimation Key-points for Face, Body and Hands</span>
         <span class="paper-authors">Ciara Sempey (Ulster University), Bryan Scotney (Ulster University), Shuai Zhang (Ulster University), Matthew Burns (Ulster University), Jorge Martinez (Ulster University)</span>
       </li>
+      <li class="paper-item">
+        <span class="paper-title">SCULPT: Training Edge Vision Models for Post-Training Quantization Readiness</span>
+        <span class="paper-authors">Bharadwaj Kavuri (Valeo), Prasad Deshpande (Valeo Vision Systems)</span>
+      </li>      
     </ul>
   </div>
 

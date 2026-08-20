@@ -43,6 +43,7 @@ The 28th **Irish Machine Vision and Image Processing (IMVIP) conference** (IMVIP
 - Early bird registration: before/on  10th July 2026
 - Camera ready paper deadline: **7th August 2026** (see [instructions](#camera-ready-papers))
 - Conference dates: 26-28th August 2026
+- **Please note that registration will close on 22nd August 2026. No on-site registration or payments can be accepted at the conference.**
 
 
 ## About IMVIP
@@ -143,7 +144,7 @@ The full schedule, session details, and paper listings are now available:
 - Friday 28th August 2026
 
     - 13:00pm  Conference end.
-    
+
 ## Keynote speakers
 
 <table>
@@ -186,6 +187,8 @@ The registration fees includes annual membership to the IPRCS, IAPR and IFCS.
 - Full registration (early bird registration/late registration): €225 / €250
 
 **Early bird registration applies to registrations on or before 10th July 2026.**
+
+**Please note that registration will close on 22nd August 2026. No on-site registration or payments can be accepted at the conference.**
 
 **Register here:** [registration website](https://shop.maynoothuniversity.ie/product/imvip-2026-conference/)
 
