@@ -290,8 +290,8 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Justyna Przyborska (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Towards Long-Term Pig Re-Identification: Investigating Human ReID Methods in Pigs</span>
-        <span class="paper-authors">Yiyuan Wang (Queen's University Belfast), Ilias Kyriazakis (Queen's University), Niall McLaughlin (Queen's University Belfast)</span>
+        <span class="paper-title"><a href="PDF/115.pdf" target="_blank">Towards Long-Term Pig Re-Identification: Investigating Human ReID Methods in Pigs</a></span>
+        <span class="paper-authors">Yiyuan Wang (Queen's University Belfast), Ilias Kyriazakis (Queen's University), Jian Gao (Queen's University Belfast), Niall McLaughlin (Queen's University Belfast)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Model Compression for Very Short-Term Solar Irradiance Forecasting Using Infrared Sky Images</span>
