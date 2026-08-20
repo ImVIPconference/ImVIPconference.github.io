@@ -326,8 +326,8 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">SiCheng Zhao (University College Dublin), Matthew Byrne (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Low-Data RGB-to-NIR Translation with Augmentation and Pseudo-Label Learning</span>
-        <span class="paper-authors">Md Yearat Hossain (University College Dublin), Riju Das (University College Dublin), Gavin McArdle (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
+        <span class="paper-title"><a href="PDF/122.pdf" target="_blank">Low-Data RGB-to-NIR Translation with Augmentation and Pseudo-Label Learning</a></span>
+        <span class="paper-authors">Md Yearat Hossain (University College Dublin), Arpit Mirdha (University College Dublin), Riju Das (University College Dublin), Gavin McArdle (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Geo-referenced small object detection in oblique aerial imagery</span>
