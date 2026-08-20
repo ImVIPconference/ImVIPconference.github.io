@@ -298,7 +298,7 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Ifran Rahman Nijhum (University College Dublin), Arnav Jaitly(University College Dublin), David Lillis (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Comparative Study of Parameter-Efficient Fine-Tuning on Low-Resource Vision-Language Modelling: Burmese-CLIP</span>
+        <span class="paper-title"><a href="PDF/147.pdf" target="_blank">Comparative Study of Parameter-Efficient Fine-Tuning on Low-Resource Vision-Language Modelling: Burmese-CLIP</a></span>
         <span class="paper-authors">Htike Thu Kaung (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
       </li>
       <li class="paper-item">
