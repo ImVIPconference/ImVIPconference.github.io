@@ -205,10 +205,13 @@ title: Conference Programme - IMVIP 2026
 
   <!-- ================= DAY 1 ================= -->
   <h2 id="day-1" class="day-header">Day 1: Wednesday, August 26, 2026</h2>
-  <div class="session-card session-social">
+<div class="session-card session-social">
     <div class="session-title-bar">
-      <h3 class="session-title">Conference Registration</h3>
+      <h3 class="session-title">Welcome Desk &amp; Badge Collection</h3>
       <span class="time-badge">13:00 – 14:00</span>
+    </div>
+    <div style="font-size: 0.88rem; color: #57606a; margin-top: 4px;">
+      Conference check-in and name tag collection.  <em>Please note: No on-site registration or payments can be accepted.</em>
     </div>
   </div>
   
@@ -268,8 +271,11 @@ title: Conference Programme - IMVIP 2026
   <h2 id="day-2" class="day-header">Day 2: Thursday, August 27, 2026</h2>
   <div class="session-card session-social">
     <div class="session-title-bar">
-      <h3 class="session-title">Conference Registration</h3>
+      <h3 class="session-title">Welcome Desk &amp; Badge Collection</h3>
       <span class="time-badge">8:30 – 9:00</span>
+    </div>
+    <div style="font-size: 0.88rem; color: #57606a; margin-top: 4px;">
+      Conference check-in and name tag collection.  <em>Please note: No on-site registration or payments can be accepted.</em>
     </div>
   </div>
 
