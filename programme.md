@@ -518,7 +518,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Ayoub Sahlaoui (Sidi Mohamed Ben Abdellah University), Salaheddin Alakkari (University of Limerick), Younes Dhassi (Sidi Mohamed Ben Abdellah University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Are Action Units Priors or Pathways? A Diagnostic Study of Temporal Valence-Arousal Estimation</span>
+        <span class="paper-title"><a href="PDF/153.pdf" target="_blank">Are Action Units Priors or Pathways? A Diagnostic Study of Temporal Valence-Arousal Estimation</a></span>
         <span class="paper-authors">Riju Das (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
       </li>
     </ol>
