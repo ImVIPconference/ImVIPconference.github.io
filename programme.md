@@ -261,7 +261,7 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Summaiya Mehmood (NED University), Dr. Raheela Asif (NED University),Syed Shahryar Jameel (NED University), Dr Muslim Jameel Syed (Atlantic Technological University, Galway)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Robust Breast Ultrasound Classification Through Dataset Auditing, Preprocessing Standardization, and Ensemble Fusion</span>
+        <span class="paper-title"><a href="PDF/152.pdf" target="_blank">Robust Breast Ultrasound Classification Through Dataset Auditing, Preprocessing Standardization, and Ensemble Fusion</a></span>
         <span class="paper-authors">Sana Siddique (Bahçeşehir University), Lavdie Rada (Bahcesehir University)</span>
       </li>
     </ol>
