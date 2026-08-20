@@ -428,8 +428,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">C.T. Levins (Ulster University), D. Kerr (Ulster University), S. Coleman (Ulster University), J.P. Quinn (Ulster University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">KeyJoint-STGCN: Keypoint-Based Spatio-Temporal Graph Learning for Monocular Trajectory Prediction</span>
-        <span class="paper-authors">Dr. Satyajit Nayak (Valeo India Pvt. Ltd.), Patitapaban Palo (University of Oxford), Kwanit Gupta (Valeo), Satarupa Uttarkabat (IIT, Kharagpur), Ganesh Sistu (Valeo Vision Systems), Mohamed Tarek (UL)</span>
+        <span class="paper-title"><a href="PDF/118.pdf" target="_blank">KeyJoint-STGCN: Keypoint-Based Spatio-Temporal Graph Learning for Monocular Trajectory Prediction</a></span>
+        <span class="paper-authors"> Patitapaban Palo (Valeo), Satyajit Nayak (Valeo) , Kwanit Gupta (Valeo), Satarupa Uttarkabat (Valeo), Ganesh Sistu (Valeo), Mohamed Tarek (University Limerick)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Multi-session Online Open-Vocabulary Object Mapping</span>
