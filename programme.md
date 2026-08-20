@@ -440,8 +440,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Krishna Prasath Kizhpada Vasudevan (University of Limerick), Ganesh Sistu (Valeo Vision Systems), Ciarán Eising (University of Limerick)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">A Domain and Sensor-Adaptive Metric Road Width Estimation from Dual Rear Cameras via Transfer Learning</span>
-        <span class="paper-authors">Zuha Hussain (University of Galway)</span>
+        <span class="paper-title"><a href="PDF/119.pdf" target="_blank">A Domain and Sensor-Adaptive Metric Road Width Estimation from Dual Rear Cameras via Transfer Learning</a></span>
+        <span class="paper-authors">Zuha Hussain (University of Galway), Waqar Shahid Qureshi (University of Galway), Nazre Batool (University of Galway), Syed Ibrahim Hassan (Pavement Management Services Ltd), David Power (Pavement Management Services Ltd), Kieran Feighan (Pavement Management Services Ltd)</span>
       </li>      
     </ol>
   </div>
