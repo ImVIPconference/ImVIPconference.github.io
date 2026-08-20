@@ -411,8 +411,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Ciara Sempey (Ulster University), Bryan Scotney (Ulster University), Shuai Zhang (Ulster University), Matthew Burns (Ulster University), Jorge Martinez (Ulster University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">SCULPT: Training Edge Vision Models for Post-Training Quantization Readiness</span>
-        <span class="paper-authors">Bharadwaj Kavuri (Valeo), Prasad Deshpande (Valeo Vision Systems)</span>
+        <span class="paper-title"><a href="PDF/043.pdf" target="_blank">SCULPT: Training Edge Vision Models for Post-Training Quantization Readiness</a></span>
+        <span class="paper-authors">Bharadwaj Kavuri (Valeo), Sourav Babu-PK (Valeo), Varadhraj Ellapan (Valeo), Pullarao Maddu (Valeo), Prasad Deshpande (Valeo Vision Systems)</span>
       </li>      
     </ul>
   </div>
