@@ -514,8 +514,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Claudia Arellano (Universidad Adolfo Ibañez)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Parameter-Efficient Adaptation of V-JEPA 2 for Egocentric Action Anticipation</span>
-        <span class="paper-authors">Ayoub Sahlaoui (Sidi Mohamed Ben Abdellah University), Salaheddin Alakkari (University of Limerick), Younes Dhassi (USMBA)</span>
+        <span class="paper-title"><a href="PDF/149.pdf" target="_blank">Parameter-Efficient Adaptation of V-JEPA 2 for Egocentric Action Anticipation</a></span>
+        <span class="paper-authors">Ayoub Sahlaoui (Sidi Mohamed Ben Abdellah University), Salaheddin Alakkari (University of Limerick), Younes Dhassi (Sidi Mohamed Ben Abdellah University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Are Action Units Priors or Pathways? A Diagnostic Study of Temporal Valence-Arousal Estimation</span>
