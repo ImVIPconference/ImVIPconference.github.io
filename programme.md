@@ -403,8 +403,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Lucas Hindes (Ulster University), Nazmul Siddique (Ulster University), Philip Vance (Ulster University), Sonya Coleman (Ulster University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">WeldNet: Vision-Based Weld Inspection for Intelligent Manufacturing Systems</span>
-        <span class="paper-authors">Sushil Sharma (University of Limerick), Reenu Mohandas (University of Limerick), Ciarán Eising (University of Limerick)</span>
+        <span class="paper-title"><a href="PDF/048.pdf" target="_blank">WeldNet: Vision-Based Weld Inspection for Intelligent Manufacturing Systems</a></span>
+        <span class="paper-authors">Sushil Sharma (University of Limerick), Oran Connors (University of Limerick), Reenu Mohandas (University of Limerick), Joe Brennan (OMC Technologies Limited), Ciarán Eising (University of Limerick)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title">Enhancing an Emotion-Labelled Video Dataset with Pose Estimation Key-points for Face, Body and Hands</span>
