@@ -383,7 +383,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Steven Bondaruk (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">A Computer Vision Tool to Aid Beginner Electric Bass Players with Fretboard Navigation</span>
+        <span class="paper-title"><a href="PDF/006.pdf" target="_blank">A Computer Vision Tool to Aid Beginner Electric Bass Players with Fretboard Navigation</a></span>
         <span class="paper-authors">Zemyna Kulikausk (Trinity College), Kenneth Dawson-Howe (Trinity College)</span>
       </li>
       <li class="paper-item">
@@ -462,7 +462,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
     </div>
     <ol class="paper-list">
       <li class="paper-item">
-        <span class="paper-title">Pix2Repair: Implicit Shape Restoration from Images</span>
+        <span class="paper-title"><a href="PDF/111.pdf" target="_blank">Pix2Repair: Implicit Shape Restoration from Images</a></span>
         <span class="paper-authors">Sean Banerjee (Wright State University)</span>
       </li>
       <li class="paper-item">
