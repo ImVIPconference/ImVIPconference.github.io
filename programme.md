@@ -482,8 +482,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Gregory Mantel (Maynooth University), Gerard Lacey (Maynooth University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Training-Free Geometric Stabilization for Monocular 3D Detection in Advanced Rider-Assistance Systems</span>
-        <span class="paper-authors">Lakshman Prabhu (Valeo India Private Limited), Dr. Satyajit Nayak (Valeo India Pvt. Ltd.), Ganesh Sistu (Valeo Vision Systems)</span>
+        <span class="paper-title"><a href="PDF/137.pdf" target="_blank">Training-Free Geometric Stabilization for Monocular 3D Detection in Advanced Rider-Assistance Systems</a></span>
+        <span class="paper-authors">Lakshman Prabhu Balsubiramaniam (Valeo India Private Limited),  Satyajit Nayak (Valeo India Pvt. Ltd.), Cyril Poulet (Valeo), Ganesh Sistu (Valeo Vision Systems)</span>
       </li>      
     </ol>
   </div>
