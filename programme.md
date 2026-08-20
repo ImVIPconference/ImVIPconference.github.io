@@ -302,8 +302,8 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Htike Thu Kaung (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Perspective-Aware Billboard Corner Detection with a Web-Based End-to-End System</span>
-        <span class="paper-authors">Sukriti Dhang (University College Dublin), Mimi Zhang (Trinity College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
+        <span class="paper-title"><a href="PDF/138.pdf" target="_blank">Perspective-Aware Billboard Corner Detection with a Web-Based End-to-End System</a></span>
+        <span class="paper-authors">Sukriti Dhang (University College Dublin), Tingyu Zhang (University College Dublin), Mimi Zhang (Trinity College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
       </li>      
     </ol>
   </div>
