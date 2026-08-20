@@ -478,8 +478,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Satyajit Nayak (Valeo India Pvt. Ltd.), Lakshman-Prabhu Balasubiramanian (Valeo India Private Limited), Rakshita Joshi (Valeo), Ganesh Sistu (Valeo Vision Systems)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Vision-Based Robotic Hot-Water Weeding for Precision Agriculture</span>
-        <span class="paper-authors">Gregory Mantel (Maynooth University), Gerard Lacey (Maynooth University)</span>
+        <span class="paper-title"><a href="PDF/150.pdf" target="_blank">Vision-Based Robotic Hot-Water Weeding for Precision Agriculture</a></span>
+        <span class="paper-authors">Gregory Mantel (Maynooth University), James Florin Petri (Maynooth University), Edward Jakunskas (Maynooth University), Gerard Lacey (Maynooth University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/137.pdf" target="_blank">Training-Free Geometric Stabilization for Monocular 3D Detection in Advanced Rider-Assistance Systems</a></span>
