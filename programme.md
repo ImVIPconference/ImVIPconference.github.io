@@ -286,7 +286,7 @@ title: Conference Programme - IMVIP 2026
     </div>
     <ol class="paper-list">
       <li class="paper-item">
-        <span class="paper-title">MicroBird: Embedded Bird-Audio Classification with Microjoule-Range CNN Inference on the MAX78002</span>
+        <span class="paper-title"><a href="PDF/144.pdf" target="_blank">MicroBird: Embedded Bird-Audio Classification with Microjoule-Range CNN Inference on the MAX78002</a></span>
         <span class="paper-authors">Justyna Przyborska (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
       </li>
       <li class="paper-item">
