@@ -436,8 +436,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Frank Gallagher (Maynooth University), John McDonald (Maynooth University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Towards ISP-Free Fisheye Camera Perception: An Evaluation in Image and BEV Space</span>
-        <span class="paper-authors">Krishna Prasath Kizhpada Vasudevan (University of Limerick), Ganesh Sistu (Valeo Vision Systems), Ciarán Eising (University of Limerick)</span>
+        <span class="paper-title"><a href="PDF/140.pdf" target="_blank">Towards ISP-Free Fisheye Camera Perception: An Evaluation in Image and BEV Space</a></span>
+        <span class="paper-authors">Krishna Prasath Kizhpada Vasudevan (University of Limerick), Ganesh Sistu (Valeo Vision Systems), Ciarán Eising (University of Limerick), Venkatesh Satagopan (Valeo), Mihai Ilie (Valeo), William O’Grady (Valeo), Praveen Narasappareddygari (Valeo), and Hariharan Ragunathan (Valeo)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/119.pdf" target="_blank">A Domain and Sensor-Adaptive Metric Road Width Estimation from Dual Rear Cameras via Transfer Learning</a></span>
