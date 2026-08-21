@@ -409,11 +409,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/054.pdf"  target="_blank">Enhancing an Emotion-Labelled Video Dataset with Pose Estimation Key-points for Face, Body and Hands</a></span>
         <span class="paper-authors">Ciara Sempey (Ulster University), Bryan Scotney (Ulster University), Shuai Zhang (Ulster University), Matthew Burns (Ulster University), Jorge Martinez (Ulster University)</span>
-      </li>
-      <li class="paper-item">
-        <span class="paper-title"><a href="PDF/043.pdf" target="_blank">SCULPT: Training Edge Vision Models for Post-Training Quantization Readiness</a></span>
-        <span class="paper-authors">Bharadwaj Kavuri (Valeo), Sourav Babu-PK (Valeo), Varadhraj Ellapan (Valeo), Pullarao Maddu (Valeo), Prasad Deshpande (Valeo Vision Systems)</span>
-      </li>      
+      </li>     
     </ul>
   </div>
 
@@ -466,9 +462,13 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 5: 3D Vision, Robotics, and Autonomous System II</h3>
-      <span class="time-badge">09:10 – 10:30</span>
+      <span class="time-badge">09:00 – 10:40</span>
     </div>
     <ol class="paper-list">
+       <li class="paper-item">
+        <span class="paper-title"><a href="PDF/043.pdf" target="_blank">SCULPT: Training Edge Vision Models for Post-Training Quantization Readiness</a></span>
+        <span class="paper-authors">Bharadwaj Kavuri (Valeo), Sourav Babu-PK (Valeo), Varadhraj Ellapan (Valeo), Pullarao Maddu (Valeo), Prasad Deshpande (Valeo Vision Systems)</span>
+      </li> 
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/111.pdf" target="_blank">Pix2Repair: Implicit Shape Restoration from Images</a></span>
         <span class="paper-authors">Nikolas Lamb (Clarkson University), Xinchao Song (Rochester Institute of Technology), Natasha Kholgade Banerjee (Wright State University), Sean Banerjee (Wright State University)</span>
@@ -491,14 +491,14 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
   <div class="session-card session-break">
     <div class="session-title-bar">
       <h3 class="session-title">Coffee / Tea</h3>
-      <span class="time-badge">10:30 – 11:00</span>
+      <span class="time-badge">10:40 – 11:10</span>
     </div>
   </div>
 
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 6: Machine Learning Techniques and Applications II</h3>
-      <span class="time-badge">11:00 – 12:40</span>
+      <span class="time-badge">11:10 – 12:50</span>
     </div>
     <ol class="paper-list">
       <li class="paper-item">
@@ -527,7 +527,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
   <div class="session-card session-social">
     <div class="session-title-bar">
       <h3 class="session-title">Conference Closing and Awards</h3>
-      <span class="time-badge">12:40 – 12:55</span>
+      <span class="time-badge">12:50 – 13:00</span>
     </div>
     <div class="chair-info"><strong>Session Chair:</strong> John McDonald</div>
   </div>
