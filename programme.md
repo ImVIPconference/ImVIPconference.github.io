@@ -510,8 +510,8 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors">Christopher Smith (Queen's University Belfast), Leo Galway (Queen's University Belfast), Richard Gault (Queen's University Belfast)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Body Mass Index (BMI) estimation from a single frontal face image using a Bayesian-ViT architecture</span>
-        <span class="paper-authors">Claudia Arellano (Universidad Adolfo Ibañez)</span>
+        <span class="paper-title"><a href="PDF/146.pdf" target="_blank">Body Mass Index (BMI) estimation from a single frontal face image using a Bayesian-ViT architecture</a></span>
+        <span class="paper-authors">Carlos Naranjo (Universidad Adolfo Ibañez), Francisca Pérez (Universidad Adolfo Ibañez), Rodrigo Wagner  (Universidad Adolfo Ibañez), Claudia Arellano (Universidad Adolfo Ibañez)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/149.pdf" target="_blank">Parameter-Efficient Adaptation of V-JEPA 2 for Egocentric Action Anticipation</a></span>
