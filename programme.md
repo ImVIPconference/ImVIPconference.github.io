@@ -226,7 +226,12 @@ title: Conference Programme - IMVIP 2026
       <div class="speaker-details">
         <div class="speaker-name"><a href="https://sonhua.github.io/" target="_blank">Prof. Binh-Son Hua</a></div>
         <div class="speaker-affil">Trinity College Dublin</div>
-        <div class="talk-title-placeholder">Talk Title: To be announced</div>
+        <div class="talk-title-placeholder">Talk Title: Toward a Synergy of Generative AI and Computer Graphics</div>
+        <details class="keynote-abstract">
+          <summary>View Abstract &amp; Bio</summary>
+          <p><strong>Abstract:</strong> The field of computer graphics is changing fast in the era of generative AI. New generative modeling techniques are transforming multiple stages of the graphics pipeline, from image and video synthesis to 3D content generation, stylization, and material editing. This keynote will present our recent work in generative graphics, focusing on 3D generation and appearance control. We will then examine the evolving role of generative AI in computer graphics and explore the prospect of physically based generative rendering through light transport simulation in autoencoder latent spaces.  </p>
+          <p><strong>Bio:</strong> Binh-Son Hua is an Assistant Professor of Computer Science at Trinity College Dublin. His research interests are at the intersection of computer graphics, computer vision, and machine learning with a focus on generative AI in the 3D space, particularly on 3D content generation and rendering using generative AI techniques. He received his PhD in Computer Science from National University of Singapore, and spent his postdoctoral research at The University of Tokyo, Japan and Singapore University of Technology and Design. He was recognized with the Best Paper Honorable Mention award at International Conference on 3D Vision 2016, and as an Outstanding Reviewer at CVPR 2023. He has been actively serving as an area chair for CVPR, NeurIPS, BMVC, WACV, an associate editor for TVCG, a technical program committee member for SIGGRAPH Asia, and a senior program committee member for AAAI. His research is funded by Research Ireland under the Frontiers for the Future Programme. </p>
+        </details>
       </div>
     </div>
   </div>
