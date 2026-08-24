@@ -226,7 +226,7 @@ title: Conference Programme - IMVIP 2026
       <div class="speaker-details">
         <div class="speaker-name"><a href="https://sonhua.github.io/" target="_blank">Prof. Binh-Son Hua</a></div>
         <div class="speaker-affil">Trinity College Dublin</div>
-        <div class="keynote-talk-title">Talk Title: Toward a Synergy of Generative AI and Computer Graphics</div>
+        <div class="keynote-talk-title">Title: Toward a Synergy of Generative AI and Computer Graphics</div>
         <details class="keynote-abstract">
           <summary>View Abstract &amp; Bio</summary>
           <p><strong>Abstract:</strong> The field of computer graphics is changing fast in the era of generative AI. New generative modeling techniques are transforming multiple stages of the graphics pipeline, from image and video synthesis to 3D content generation, stylization, and material editing. This keynote will present our recent work in generative graphics, focusing on 3D generation and appearance control. We will then examine the evolving role of generative AI in computer graphics and explore the prospect of physically based generative rendering through light transport simulation in autoencoder latent spaces.  </p>
