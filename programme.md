@@ -248,7 +248,7 @@ title: Conference Programme - IMVIP 2026
       <h3 class="session-title">Oral Session 1: Medical Image Analysis</h3>
       <span class="time-badge">15:30 – 16:50</span>
     </div>
-    <div class="chair-info"><strong>Session Chair:</strong>Gerry Lacey</div>
+    <div class="chair-info"><strong>Session Chair:</strong> Gerry Lacey</div>
     <ol class="paper-list">
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/113.pdf" target="_blank">Compact CNNs for Chest X-ray Screening: Accuracy, Explainability, and Containerised Deployment</a></span>
@@ -420,7 +420,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
       <h3 class="session-title">Oral Session 4: 3D Vision, Robotics, and Autonomous System I</h3>
       <span class="time-badge">15:50 – 17:30</span>
     </div>
-    <div class="chair-info"><strong>Session Chair:</strong>Dermot Kerr</div>
+    <div class="chair-info"><strong>Session Chair:</strong> Dermot Kerr</div>
     <ol class="paper-list">
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/112.pdf" target="_blank">Bundled Feature Encoding: A Shift-Tolerant Image Representation for Hyperdimensional Computing</a></span>
@@ -467,7 +467,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
       <h3 class="session-title">Oral Session 5: 3D Vision, Robotics, and Autonomous System II</h3>
       <span class="time-badge">09:00 – 10:40</span>
     </div>
-    <div class="chair-info"><strong>Session Chair:</strong>Richard Gault</div>
+    <div class="chair-info"><strong>Session Chair:</strong> Richard Gault</div>
     <ol class="paper-list">
        <li class="paper-item">
         <span class="paper-title"><a href="PDF/043.pdf" target="_blank">SCULPT: Training Edge Vision Models for Post-Training Quantization Readiness</a></span>
