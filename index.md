@@ -151,6 +151,9 @@ The full schedule, session details, and paper listings are now available:
 <tr>
 <td width="30%"><img src="https://sonhua.github.io/images/face2019.jpg" width="200" ></td>
 <td> Our first confirmed Keynote at IMVIP 2026 is <a href="https://sonhua.github.io/" target="_blank">Prof. Binh-Son Hua</a> from Trinity College Dublin! Check out his amazing research in computer vision,  deep learning and computer graphics  on <a href="https://sonhua.github.io/">his website!</a>
+<br>
+<br>
+Binh-Son Hua is an Assistant Professor of Computer Science at Trinity College Dublin. His research interests are at the intersection of computer graphics, computer vision, and machine learning with a focus on generative AI in the 3D space, particularly on 3D content generation and rendering using generative AI techniques. He received his PhD in Computer Science from National University of Singapore, and spent his postdoctoral research at The University of Tokyo, Japan and Singapore University of Technology and Design. He was recognized with the Best Paper Honorable Mention award at International Conference on 3D Vision 2016, and as an Outstanding Reviewer at CVPR 2023. He has been actively serving as an area chair for CVPR, NeurIPS, BMVC, WACV, an associate editor for TVCG, a technical program committee member for SIGGRAPH Asia, and a senior program committee member for AAAI. His research is funded by Research Ireland under the Frontiers for the Future Programme.
 </td>
 </tr>
 <tr>
