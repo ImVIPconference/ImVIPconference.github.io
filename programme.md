@@ -379,6 +379,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
       <h3 class="session-title">Coffee &amp; Poster Session 1</h3>
       <span class="time-badge">15:00 – 15:50</span>
     </div>
+    <div class="chair-info"><strong>Session Chair:</strong> Charles Markham</div>
     <ul class="paper-list">
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/003.pdf" target="_blank">Efficient automatic traffic light alteration for sparse traffic flow</a></span>
