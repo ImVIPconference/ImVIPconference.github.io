@@ -248,6 +248,7 @@ title: Conference Programme - IMVIP 2026
       <h3 class="session-title">Oral Session 1: Medical Image Analysis</h3>
       <span class="time-badge">15:30 – 16:50</span>
     </div>
+    <div class="chair-info"><strong>Session Chair:</strong>Gerry Lacey</div>
     <ol class="paper-list">
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/113.pdf" target="_blank">Compact CNNs for Chest X-ray Screening: Accuracy, Explainability, and Containerised Deployment</a></span>
