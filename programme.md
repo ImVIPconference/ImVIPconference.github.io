@@ -246,7 +246,7 @@ title: Conference Programme - IMVIP 2026
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 1: Medical Image Analysis</h3>
-      <span class="time-badge">15:30 – 17:10</span>
+      <span class="time-badge">15:30 – 16:50</span>
     </div>
     <ol class="paper-list">
       <li class="paper-item">
@@ -256,10 +256,6 @@ title: Conference Programme - IMVIP 2026
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/114.pdf" target="_blank">Motion-Based Detection and Tracking of Trypanosoma cruzi Parasites in Microscopy Videos</a></span>
         <span class="paper-authors">Senem Aktas (Bahcesehir University), Carlos Brito-Loeza (Universidad Autónoma de Yucatán), Hugo Ruiz-Piña (Centro de Investigaciones Regionales Dr. Hideyo Noguchi), Lavdie Rada (Bahcesehir University)</span>
-      </li>
-      <li class="paper-item">
-        <span class="paper-title">Data-Efficient AI for Microstructure Characterisation in Pharmaceutical Microscopy </span>
-        <span class="paper-authors">Hanieh Khosravi (Atlantic Technological University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/135.pdf" target="_blank">Deep Learning-Enabled Intelligent Health Care System for Early Diagnosis of Alzheimer’s Disease</a></span>
