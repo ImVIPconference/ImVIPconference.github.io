@@ -322,6 +322,7 @@ title: Conference Programme - IMVIP 2026
       <h3 class="session-title">Oral Session 3: Aerial and Geospatial Image Processing</h3>
       <span class="time-badge">11:10 – 12:30</span>
     </div>
+    <div class="chair-info"><strong>Session Chair:</strong> Sonya Coleman</div>    
     <ol class="paper-list">
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/121.pdf" target="_blank">Automask: Promptable Concept Segmentation with SAM3 for Glacier 3D Reconstruction from UAV Imagery</a></span>
