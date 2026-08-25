@@ -246,7 +246,7 @@ title: Conference Programme - IMVIP 2026
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 1: Medical Image Analysis</h3>
-      <span class="time-badge">15:30 – 16:50</span>
+      <span class="time-badge">15:30 – 16:30</span>
     </div>
     <div class="chair-info"><strong>Session Chair:</strong> Gerry Lacey</div>
     <ol class="paper-list">
@@ -259,14 +259,16 @@ title: Conference Programme - IMVIP 2026
         <span class="paper-authors">Senem Aktas (Bahcesehir University), Carlos Brito-Loeza (Universidad Autónoma de Yucatán), Hugo Ruiz-Piña (Centro de Investigaciones Regionales Dr. Hideyo Noguchi), Lavdie Rada (Bahcesehir University)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title"><a href="PDF/135.pdf" target="_blank">Deep Learning-Enabled Intelligent Health Care System for Early Diagnosis of Alzheimer’s Disease</a></span>
-        <span class="paper-authors">Summaiya Mehmood (NED University), Dr. Raheela Asif (NED University),Syed Shahryar Jameel (NED University), Dr Muslim Jameel Syed (Atlantic Technological University, Galway)</span>
-      </li>
-      <li class="paper-item">
         <span class="paper-title"><a href="PDF/152.pdf" target="_blank">Robust Breast Ultrasound Classification Through Dataset Auditing, Preprocessing Standardization, and Ensemble Fusion</a></span>
         <span class="paper-authors">Sana Siddique (Bahçeşehir University), Lavdie Rada (Bahcesehir University)</span>
       </li>
     </ol>
+  </div>
+  <div class="session-card session-social">
+    <div class="session-title-bar">
+      <h3 class="session-title">Tour of the National Science Museum, St. Patrick's College Maynooth.</h3>
+      <span class="time-badge">16:30 </span>
+    </div>
   </div>
 
   <!-- ================= DAY 2 ================= -->
