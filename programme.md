@@ -286,6 +286,7 @@ title: Conference Programme - IMVIP 2026
       <h3 class="session-title">Oral Session 2: Machine Learning Techniques and Applications I</h3>
       <span class="time-badge">09:00 – 10:40</span>
     </div>
+    <div class="chair-info"><strong>Session Chair:</strong> Ken Dawson-Howe</div>
     <ol class="paper-list">
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/144.pdf" target="_blank">MicroBird: Embedded Bird-Audio Classification with Microjoule-Range CNN Inference on the MAX78002</a></span>
@@ -506,6 +507,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
       <h3 class="session-title">Oral Session 6: Machine Learning Techniques and Applications II</h3>
       <span class="time-badge">11:10 – 12:50</span>
     </div>
+    <div class="chair-info"><strong>Session Chair:</strong> Bryan Scotney</div>
     <ol class="paper-list">
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/127.pdf" target="_blank">Diffusion-Based Saliency Map Generation from RGB Images</a></span>
