@@ -436,7 +436,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-authors"> Patitapaban Palo (Valeo), Satyajit Nayak (Valeo) , Kwanit Gupta (Valeo), Satarupa Uttarkabat (Valeo), Ganesh Sistu (Valeo), Mohamed Tarek (University Limerick)</span>
       </li>
       <li class="paper-item">
-        <span class="paper-title">Multi-session Online Open-Vocabulary Object Mapping</span>
+        <span class="paper-title"><a href="PDF/151.pdf" target="_blank">Multi-session Online Open-Vocabulary Object Mapping</a></span>
         <span class="paper-authors">Frank Gallagher (Maynooth University), John McDonald (Maynooth University)</span>
       </li>
       <li class="paper-item">
