@@ -459,7 +459,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
 
   <div class="session-card session-social">
     <div class="session-title-bar">
-      <h3 class="session-title">Conference Dinner &bull; Glenroyal Hotel</h3>
+      <h3 class="session-title">Conference Dinner &bull; <a href="https://maps.app.goo.gl/nHDApnNGW4A4LyzP8" target="_blank">Glenroyal Hotel</a></h3>
       <span class="time-badge">19:00</span>
     </div>
   </div>
