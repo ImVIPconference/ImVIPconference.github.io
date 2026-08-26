@@ -348,7 +348,7 @@ title: Conference Programme - IMVIP 2026
 
   <div class="session-card session-break">
     <div class="session-title-bar">
-      <h3 class="session-title">Lunch Break &bull; Pugin Hall (South Campus)</h3>
+      <h3 class="session-title">Lunch Break &bull; <a href="https://maps.app.goo.gl/nizeGJNMxsdzv13D7" target="_blank">Pugin Hall (South Campus)</a></h3>
       <span class="time-badge">12:30 – 14:00</span>
     </div>
   </div>
