@@ -507,7 +507,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
   <div class="session-card">
     <div class="session-title-bar">
       <h3 class="session-title">Oral Session 6: Machine Learning Techniques and Applications II</h3>
-      <span class="time-badge">11:10 – 12:30</span>
+      <span class="time-badge">11:10 – 12:50</span>
     </div>
     <div class="chair-info"><strong>Session Chair:</strong> Bryan Scotney</div>
     <ol class="paper-list">
@@ -527,13 +527,17 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-title"><a href="PDF/153.pdf" target="_blank">Are Action Units Priors or Pathways? A Diagnostic Study of Temporal Valence-Arousal Estimation</a></span>
         <span class="paper-authors">Riju Das (University College Dublin), Soumyabrata Dev (Trinity College Dublin)</span>
       </li>
+      <li class="paper-item">
+       <span class="paper-title"><a href="PDF/149.pdf" target="_blank">Parameter-Efficient Adaptation of V-JEPA 2 for Egocentric Action Anticipation</a></span>
+       <span class="paper-authors">Ayoub Sahlaoui (Sidi Mohamed Ben Abdellah University), Salaheddin Alakkari (University of Limerick), Younes Dhassi (Sidi Mohamed Ben Abdellah University)</span>
+      </li>
     </ol>
   </div>
 
   <div class="session-card session-social">
     <div class="session-title-bar">
       <h3 class="session-title">Conference Closing and Awards</h3>
-      <span class="time-badge">12:30 – 12:45</span>
+      <span class="time-badge">12:50 – 13:00</span>
     </div>
     <div class="chair-info"><strong>Session Chair:</strong> John McDonald</div>
   </div>
