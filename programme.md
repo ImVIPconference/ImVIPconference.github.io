@@ -437,7 +437,7 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
       </li>
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/151.pdf" target="_blank">Multi-session Online Open-Vocabulary Object Mapping</a></span>
-        <span class="paper-authors">Frank Gallagher (Maynooth University), John McDonald (Maynooth University)</span>
+        <span class="paper-authors">Frank Gallagher (Maynooth University), Marco Cognetti (CNRS), John McDonald (Maynooth University)</span>
       </li>
       <li class="paper-item">
         <span class="paper-title"><a href="PDF/140.pdf" target="_blank">Towards ISP-Free Fisheye Camera Perception: An Evaluation in Image and BEV Space</a></span>
