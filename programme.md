@@ -540,6 +540,12 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
       <span class="time-badge">12:50 – 13:00</span>
     </div>
     <div class="chair-info"><strong>Session Chair:</strong> John McDonald</div>
+<ul class="paper-list">
+<li class="paper-item">
+        <span class="paper-title"><a href="PDF/136.pdf" target="_blank">Similarity-Augmented Roadside Object Triangulation from street level images</a></span>
+        <span class="paper-authors">Waqar Ahmad (Dublin City University), Vladimir Krylov (Dublin City University)</span>
+      </li>
+</ul>
   </div>
 
 </div>
