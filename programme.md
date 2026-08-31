@@ -545,6 +545,10 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
         <span class="paper-title"><a href="PDF/136.pdf" target="_blank">Similarity-Augmented Roadside Object Triangulation from street level images</a></span>
         <span class="paper-authors">Waqar Ahmad (Dublin City University), Vladimir Krylov (Dublin City University)</span>
       </li>
+       <li class="paper-item">
+        <span class="paper-title"><a href="PDF/144.pdf" target="_blank">MicroBird: Embedded Bird-Audio Classification with Microjoule-Range CNN Inference on the MAX78002</a></span>
+        <span class="paper-authors">Justyna Przyborska (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
+      </li>
 </ul>
   </div>
 
