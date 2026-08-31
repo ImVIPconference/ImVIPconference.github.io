@@ -542,11 +542,11 @@ In this talk, Ganesh will provide a bird’s-eye view of this evolution, tracing
     <div class="chair-info"><strong>Session Chair:</strong> John McDonald</div>
 <ul class="paper-list">
 <li class="paper-item">
-        <span class="paper-title"><b>IMVIP Jonathan Campbell Best Paper Award: </b><a href="PDF/136.pdf" target="_blank">Similarity-Augmented Roadside Object Triangulation from street level images</a></span>
+        <span class="paper-title"><b>IMVIP Jonathan Campbell Best Paper Award: </b><br><a href="PDF/136.pdf" target="_blank">Similarity-Augmented Roadside Object Triangulation from street level images</a></span>
         <span class="paper-authors">Waqar Ahmad (Dublin City University), Vladimir Krylov (Dublin City University)</span>
       </li>
        <li class="paper-item">
-        <span class="paper-title"><b>Best Student Paper Award:</b> <a href="PDF/144.pdf" target="_blank">MicroBird: Embedded Bird-Audio Classification with Microjoule-Range CNN Inference on the MAX78002</a></span>
+        <span class="paper-title"><b>Best Student Paper Award:</b><br> <a href="PDF/144.pdf" target="_blank">MicroBird: Embedded Bird-Audio Classification with Microjoule-Range CNN Inference on the MAX78002</a></span>
         <span class="paper-authors">Justyna Przyborska (University of Limerick), Salaheddin Alakkari (University of Limerick)</span>
       </li>
 </ul>
