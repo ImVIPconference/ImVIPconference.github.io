@@ -9,7 +9,10 @@ title: IMVIP 2026 - Irish Machine Vision and Image Processing Conference
 
 # Welcome to IMVIP 2026!
 
+**News:** IMVIP 2026 proceedings are published at [DOI:10.48460/MU.MURAL.00021908](https://doi.org/10.48460/MU.MURAL.00021908)
 
+
+---
 
 [Important Dates](https://imvipconference.github.io/#important-dates) | 
 [Paper Submission](https://imvipconference.github.io/#submission-guidelines-for-authors) |
